@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Roberto Giudici &#8211; 4D-REEF</title>
+	<atom:link href="/4D-REEF/tag/roberto-giudici/feed/" rel="self" type="application/rss+xml" />
+	<link>/4D-REEF/</link>
+	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
+	<lastBuildDate>Thu, 20 Apr 2023 14:55:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Reef Digital Twins</title>
+		<link>/4D-REEF/digital-twins/</link>
+		
+		<dc:creator><![CDATA[Chantal Cornelissen]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 16:54:13 +0000</pubDate>
+				<category><![CDATA[ESR blog]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Digital Twin]]></category>
+		<category><![CDATA[Roberto Giudici]]></category>
+		<guid isPermaLink="false">/4D-REEF/?p=3733</guid>
+
+					<description><![CDATA[Blog by Roberto Giudici, ESR of 4D-REEF at OceanMaps in Austria.   Scientific descriptions of reefs contain a wealth of information, but are difficult to communicate in a form that can be easily understood by the general public. Digital Twins programs have recently been introduced for assisting scientific communities in data fostering and outreach, turning]]></description>
+										<content:encoded><![CDATA[<p><em>Blog by Roberto Giudici, ESR of 4D-REEF at OceanMaps in Austria.</em></p>
+<p>&nbsp;</p>
+<p>Scientific descriptions of reefs contain a wealth of information, but are difficult to communicate in a form that can be easily understood by the general public. Digital Twins programs have recently been introduced for assisting scientific communities in data fostering and outreach, turning complex experiments into pleasant stories. Born for creating digital models of industrial scenarios, these solutions are emerging as educational tools in science.  I, ESR Roberto, ventured in the development of an educational Digital Twin, showing the reconstruction of a reef on a coralline beach, in form of 3D immersive Serious Game, featuring images and descriptions of the corals and their state of health.</p>
+<p>The blog contains links to download two developed Digital Twins (<a href="https://omg-share-frankfurt.s3.eu-central-1.amazonaws.com/4d-reef/4d-reef_showcase_installer.exe">link 1</a> and <a href="https://omg-share-frankfurt.s3.eu-central-1.amazonaws.com/4d-reef/Kodingareng_Keke_Giudici.zip">link 2</a>)</p>
+<p>&nbsp;</p>
+<p><strong>What is a Digital Twin</strong></p>
+<p>A Digital twin is a technology that allows scientists to create a virtual replica of a physical object or system. This replica can be used to simulate the behaviour of the physical object or system, and can fit a wide range of applications. Digital Twins have the potential to revolutionize the way scientists and researchers study and understand complex any dynamic Earth&#8217;s processes, bridging the gaps between research and dissemination and harnessing specialist expertise in topographic modelling with interactive maps.</p>
+<p>Roberto modelled two Digital Twins; an entire coralline island scenario, similar as in the Spermonde field study area, featuring vegetation, sandy beach, coral reef and fish, to virtually unveil the secrets of this fascinating environment and describe its processes.</p>
+<p><strong><br />
+Digital Twin developed for turbid reef visualisation</strong></p>
+<p>The development of a Digital Twin of a selected reef at the Spermonde archipelago, required the creation of a fully interactive 3D replica of the most relevant entities, featuring the creation of a topographic map of the seabed and emerged islands, a set of layers of ancillary information, including photographic, descriptions, etc. The resulting scenario would be presented into 3D immersive form, to let the user diving in a virtual reef, plounging the user in the beauty of the underwater world helping raising awarness about these endangered ecosystems. I decided to target an audience of young students, showing them the reefs as games, as proposed by several ESRs and supervisors from 4D-REEF.</p>
+<p>I chose to develop the Digital Twins with Unity 3D, a market leading 3D Advanced Gaming Engine. Unity 3D is multiplatform and Multi Target, allowing to generate PC, Tablet, and Web based Gaming solutions at once. Moreover, this engine features an extremely large Repository of 3D objects and Terrains, including, vegetation, rocks, buildings, fish and other underwater animated species that can dynamically be added to our scenes to create more realistic scenes. The terrain can be either digitally synthetized through a terrain generator application to create pseudo-random topographic and morphological features, or we can import existing terrains, issued of Topo-Bathymetric surveys. In this latter case, the original terrain will be first composed by a 3D Point-Cloud and has to be converted into a 3D Mesh, through an operation called Triangulation. The terrain needs to be georeferenced during acquisition or Post Processing, with Geographical Coordinates issued of a GPS receiver.</p>
+<p><strong><br />
+Digital Twins Use cases: Focus on CAO, BIM and GIS</strong></p>
+<p>Digital Twins have so far mainly been used for industrial applications, providing substantial assistance in industry and construction.  Seabed mapping and benthic classification developed only when reliable Multibeam Echo-Sounders and Underwater Laserscans came into market. Newer fully interoperable 3D engines are leveraging on advanced parallel computing to offer a fully immersive and interactive experience, based on first person’s view, where the users can freely navigate in virtual ocean depths and reach inaccessible regions, straight from their home’s pc screen. I tried to first characterise some potential applications of a Digital Twin of the Spermonde Islands, and identified three main options, ordered by growing complexity:</p>
+<ol>
+<li><strong>SCIENTIFIC DISSEMINATION TOOL:</strong> To visually and interactively make aspects of research insightful. Needs describing a mission of Research, by its geographical locations, position and type of Sampling operated on the site, Georeferenced Clickable Images and Pop-Up windows with Explanations. This model corresponds to navigable 3D Hypertext, with limited interoperability and realm. It cannot be used for simulations or serious games.</li>
+<li><strong>MARINE/COASTAL INFORMATION MANAGEMENT SYSTEM (MIMS/CIMS):</strong> This corresponds to the transposition in 3D of a GIS system connected to Geographical Data Bases for Real-Time Data Update. It features limited 3D navigability, but cannot be used for simulations, or serious games.</li>
+<li><strong>SERIOUS GAME/SIMULATION:</strong> This is a fully immersive simulated Marine environment, featuring Coastal, Underwater and Benthic entities, such as Terrain, Sky, Clouds, Waves, Fish, Seagrass, Mangrove, Coral, Rocks and CAO entities such as Pipelines, ROVS, etc. It can feature advanced simulation of the underlying processes and manipulations (operating a ROV in a Pipe Deployment/Inspection mission. Physics Laws may be applied on the natural and CAO entities, to model the behaviour of Coastal Erosion due to underwater sedimentary transport, the Zooplacton Daily Vertical Migration (DVM) in the water column. The Laws of physics may extend to Weather conditions, light and colour absorption in the water Colum and reflection from the seabed. This latter scenario may also dynamically model the natural Spawn of Corals, Sea grass and fish swimming in schools driven by Social Algorithms (Algorithm of the Boids), with different types of realm depending of the Targeted Academic/Industrial/Retail community, and the Target Device (Mobile Device, PC, Web, etc.…). One or more characters driven by user interaction or pseudo random (or AI) cinematics, may also be added, featuring First Person Cameras (where the scene is seen from the eyes of the character), of Third Person Camera, where the User can see the entire scene (or a portion of it), independently of the movement of the characters. The realisation of this latter scenario may require an extensive amount of resources and a well-defined Project build on interactive participation of the Customer and the technical Teams. Based on the requirements, the cycle of production for this scenario may require several months of development.</li>
+</ol>
+<p><strong>Development Process</strong></p>
+<p>I developed two Digital Twins. As Covid-19 travel restrictions prohibited the 4D-REEF ESRs from travelling to the Indonesian Spermonde archipelago, conducting bathymetric surveys in the field had to wait until summer 2022. Therefore I developed a pseudo-random Terrain using Gaia, one of the most advanced Generator working as Plugin from within the Unity Editor. This terrain would be replaced by the bathymetric maps of the Spermonde, once available.</p>
+<p>&nbsp;</p>
+<p><strong>3D Scene Hierarchy in game engine Unity 3D</strong></p>
+<p><strong>Scene:</strong> A 3D Scene is made up by a set of “Entities” that represent the abstraction of the Real World. The distances in a Scene are expressed in Points. Our Digital Twin has been developed in a Projected Georeferenced Space. The creation of a Georeferenced Space Layer of has been built by Ocean Maps, through a special customized application, as Unity 3D, being a 3D Gaming Engine, does not provide this Layer of Abstraction. The vegetation, rocks and Human crafted entities are all added to the Terrain. The Terrain, Cameras, Lighting, Sea, Weather, Sound, etc., are all attached to the Scene.</p>
+<ol>
+<li><strong>Terrain:</strong> This is the digital reconstruction of the soil, featuring, flat land, hills and mountains. It can be built as Pseudo-Random or imported an external 3D Mesh, normally obtained by Laserscan Photogrammetric or Bathymetric reconstructions. Unity 3D offers several cutting-edge Terrain Editors, like Gaia, used in this project.</li>
+<li><strong> </strong><strong>Cameras:</strong> They represent the Viewport used by the user to see the terrain. They are defined by a Field Of View (FOV) that is the width of the region that can bene seen and its relative scale. They can be positioned freely by the user, and the FOV behaves as lenses of a real camera.</li>
+<li><strong>Characters:</strong> They represent the main actors of the Serious Game and they can either be animated Humans, Animals, or Machines. They can have different levels of Animation.</li>
+<li><strong>Lighting:</strong> Lighting sources are added to enlighten the scene and simulate real-environmental conditions. They can be freely deployed by the user, under Spot or Diffused, and beam width, direction and colour (light temperature) and their parameters can be changed during Run-Time.</li>
+<li><strong>Sea, Weather, Sound, etc.:</strong> These entities are commonly used in Serious Games provide a better realm and user experience to the scene.</li>
+</ol>
+<p><strong><br />
+<span style="text-decoration: underline;">Digital Twin 1: Serious Game: Dive in the reef</span></strong></p>
+<p>This Digital Twin can be downloaded <a href="https://omg-share-frankfurt.s3.eu-central-1.amazonaws.com/4d-reef/4d-reef_showcase_installer.exe">here (link)</a>.</p>
+<p>The process of creating a Digital Twin of a coralline island is illustrated by the pipeline shown at Fig. 1.  We decided to use the Gaia Terrain Generator that features a set of tools for creating all the entities required in the current project. The operations required for creating and populating the Terrain are shown at Fig. 2.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3736" src="/4D-REEF/wp-content/uploads/Figure_1_resized.jpg" alt="" width="500" height="396" srcset="/4D-REEF/wp-content/uploads/Figure_1_resized-200x158.jpg 200w, /4D-REEF/wp-content/uploads/Figure_1_resized-300x238.jpg 300w, /4D-REEF/wp-content/uploads/Figure_1_resized-400x317.jpg 400w, /4D-REEF/wp-content/uploads/Figure_1_resized.jpg 500w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p style="text-align: center;"><em>Figure 1: Process of Island Generation</em></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3737" src="/4D-REEF/wp-content/uploads/Figure_2_resized_resized.jpg" alt="" width="849" height="474" srcset="/4D-REEF/wp-content/uploads/Figure_2_resized_resized-200x112.jpg 200w, /4D-REEF/wp-content/uploads/Figure_2_resized_resized-300x167.jpg 300w, /4D-REEF/wp-content/uploads/Figure_2_resized_resized-400x223.jpg 400w, /4D-REEF/wp-content/uploads/Figure_2_resized_resized-600x335.jpg 600w, /4D-REEF/wp-content/uploads/Figure_2_resized_resized-768x429.jpg 768w, /4D-REEF/wp-content/uploads/Figure_2_resized_resized-800x447.jpg 800w, /4D-REEF/wp-content/uploads/Figure_2_resized_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 2: Pipeline for the creation of a Digital Twin for Dissemination</em></p>
+<p>&nbsp;</p>
+<p><strong>Creation of the Terrain:</strong> The first step required the creation of a terrain featuring a tropical coralline sedimentary island. We created the terrain using a Stamp provided by the Gaia Editor (Fig. 3).<br />
+<strong>Procedure for Generating a Coralline island: </strong>Gaia provides existing Stamps featuring the most common morphologies: Mountains, Flat Land,  Hills, Island, Archipelago, etc. However, custom Stamps can also be imported.</p>
+<p><strong>Properties of the island:</strong></p>
+<ul>
+<li>The Planimetry of the island is defined by a Stamp that can reproduce straight coastline, Bays, Gulfs, etc.).</li>
+<li>Morphology of the Island: Elevation</li>
+<li>Ruggedness: smooth, polished rock to rough crystalline</li>
+<li>Topographic Discontinuities: Valleys, Graben, etc.</li>
+<li>Sedimentary feature: Type and Grain size. Different grain types can be included and the transition to the different types can be set through linear or custom laws</li>
+</ul>
+<p><img decoding="async" class="aligncenter size-full wp-image-3738" src="/4D-REEF/wp-content/uploads/Figure_3_resized.jpg" alt="" width="849" height="434" srcset="/4D-REEF/wp-content/uploads/Figure_3_resized-200x102.jpg 200w, /4D-REEF/wp-content/uploads/Figure_3_resized-300x153.jpg 300w, /4D-REEF/wp-content/uploads/Figure_3_resized-400x204.jpg 400w, /4D-REEF/wp-content/uploads/Figure_3_resized-600x307.jpg 600w, /4D-REEF/wp-content/uploads/Figure_3_resized-768x393.jpg 768w, /4D-REEF/wp-content/uploads/Figure_3_resized-800x409.jpg 800w, /4D-REEF/wp-content/uploads/Figure_3_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 3: Creating a Pseudo-Random Island with UNITY 3D &#8211; Gaia</em></p>
+<p>&nbsp;</p>
+<p>Gaia generates patterns of sediment with different of Sedimentary Facies and Grain Size and Morphological Structures, featuring longshore ripples with different orientations and height. This allows building complex sedimentary architectures at once. Morphological structures can also be highly customised with Scars, Graben, etc. (Fig. 4, 5).</p>
+<p><img decoding="async" class="aligncenter size-medium wp-image-3739" src="/4D-REEF/wp-content/uploads/Figure_4_5_resized-300x153.jpg" alt="" width="300" height="153" srcset="/4D-REEF/wp-content/uploads/Figure_4_5_resized-200x102.jpg 200w, /4D-REEF/wp-content/uploads/Figure_4_5_resized-300x153.jpg 300w, /4D-REEF/wp-content/uploads/Figure_4_5_resized-400x204.jpg 400w, /4D-REEF/wp-content/uploads/Figure_4_5_resized-600x306.jpg 600w, /4D-REEF/wp-content/uploads/Figure_4_5_resized-768x391.jpg 768w, /4D-REEF/wp-content/uploads/Figure_4_5_resized-800x408.jpg 800w, /4D-REEF/wp-content/uploads/Figure_4_5_resized.jpg 820w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p style="text-align: center;"><em>Figures 4, 5: Pseudo Random Sedimentary Rugosity and Scars</em></p>
+<p>&nbsp;</p>
+<p><strong>Vegetation: </strong>The origin of the plant 3D specimens had to be defined ahead of any addition. We needed to procure the right set of entities useful for the project on the Unity Asset Store (The Virtual Market where entities can be purchased and downloaded). As the Spermonde Islands are Coralline islands, with no volcanic, nor Karstic formations, we selected a coralline sand and lowered the topography to get a low-lying island. We chose the right assemblage of plants after studying the distribution of some coralline islands at the Spermonde, namely Samalona, Kodigareng Keke and Langkai.</p>
+<p><strong>Spawning the Entity on the Terrain:</strong> The Spawning operation on Gaia allows adding dozens of hundreds of specimens at once, with different pseudo-random spatial distributions, densities, sizes and orientations. We spawned first the vegetation of the emerged and riparian regions, adding palm trees along the beach and trees at the centre of the island. As these islands are just a few meters above the level of the sea, rainwater cannot accumulate, and therefore, mangrove forests cannot develop. In a second time, we added the seagrass and coral in the underwater in-shore region, above the reef flat (Fig. 6). The entire reef will be then covered by water, whose level is set during the construction of the model and can be freely changed on runtime, to simulate tides. Our model did not include tides, as the Spermonde has a micro tidal regime with a total tidal amplitude of approximately 50 cm on spring tide.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3740" src="/4D-REEF/wp-content/uploads/Figure_6_resized.jpg" alt="" width="593" height="308" srcset="/4D-REEF/wp-content/uploads/Figure_6_resized-200x104.jpg 200w, /4D-REEF/wp-content/uploads/Figure_6_resized-300x156.jpg 300w, /4D-REEF/wp-content/uploads/Figure_6_resized-400x208.jpg 400w, /4D-REEF/wp-content/uploads/Figure_6_resized.jpg 593w" sizes="(max-width: 593px) 100vw, 593px" /></p>
+<p style="text-align: center;"><em>Figure </em><em>6</em><em>: Coral Assemblage</em></p>
+<p><strong>Environmental and Weather Engines:</strong>  Simulate the water, with water level, water turbidity, water caustics, and waves, based on the direction and strength of the wind generated by the weather engine. We also simulated changes in Sun light penetration in the water column, based on changing weather conditions across time on the scene.</p>
+<p><strong>Daylight:</strong> Based on the month, time and weather conditions, the environmental engine sets the sun position, height, intensity and light temperature, recreating stunning environmental conditions.<br />
+The final assemblage featuring vegetation and coral (shown at Fig 7).</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3741" src="/4D-REEF/wp-content/uploads/Figure_7_resized.jpg" alt="" width="849" height="539" srcset="/4D-REEF/wp-content/uploads/Figure_7_resized-200x127.jpg 200w, /4D-REEF/wp-content/uploads/Figure_7_resized-300x190.jpg 300w, /4D-REEF/wp-content/uploads/Figure_7_resized-320x202.jpg 320w, /4D-REEF/wp-content/uploads/Figure_7_resized-400x254.jpg 400w, /4D-REEF/wp-content/uploads/Figure_7_resized-600x381.jpg 600w, /4D-REEF/wp-content/uploads/Figure_7_resized-768x488.jpg 768w, /4D-REEF/wp-content/uploads/Figure_7_resized-800x508.jpg 800w, /4D-REEF/wp-content/uploads/Figure_7_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 7: Final Terrain Assemblage</em></p>
+<p><strong>Fish and underwater living forms: </strong>The addition of underwater forms of life like fish that move within the scene, is a challenging process. In particular, the computation of the positions of fish swimming in a school requires the implementation of Algorithms driving the Social Behaviour of fishes, like the Algorithm of the Boids that reproduces the Flocking behaviour of fish (Fig. 8).</p>
+<p><strong>The algorithm for fish movement is composed of Four Rules:</strong></p>
+<ol>
+<li><strong>Cohesion:</strong> Fish search for their neighbours in a radius defined as the Radius of Cohesion. The current positions of all neighbours are summed up. The result is divided by the number of neighbours. Thus, the centre of mass of the neighbours is obtained. This is the point to which the fish strive for cohesion.</li>
+<li><strong>Separation:</strong> Fish search for their neighbours in a radius defined as the Separation Radius. To calculate the motion vector of an individual fish in a specific separation direction from a school, the difference in the positions of the neighbours and its own position is summed up. The result is divided by the number of neighbours and then normalized and multiplied by -1 to change the initial direction of the fish to swim in the opposite direction of the neighbours.</li>
+<li><strong>Alignment:</strong> Fish search for their neighbours in a radius defined as the Radius of Alignment. The current speeds of all neighbours are summed, then divided by the number of neighbours.</li>
+<li><strong>Reversal:</strong> All of the fish can only swim in a given space, the boundaries of which can be specified. The moment a fish crosses a boundary must be identified. If a fish hits a boundary, then the direction of the fish is changed to the opposite vector (thereby keeping the fish within the defined space). <em>(Source: Unreal 3D)</em></li>
+</ol>
+<p>The Flocking algorithm needed to be adapted to Pelagic and Benthic fishes like Grazers.</p>
+<ul>
+<li>Pelagic fish: Oceanic pelagic fish typically inhabit waters below the continental shelf.</li>
+<li>Benthic fish: Fish that live on or near the sea-bottom, irrespective of the depth of the sea.</li>
+</ul>
+<p>As all existing solutions provided by game engine Unity 3D cannot yet integrate this distinction, we rewrote the algorithm to simulate the behaviour of Reef fish like Parrotfish, Clown fish, Surgeonfish. We implemented a Pseudo-Random variant of the algorithm, where the parameters and the target followed by the leader of the fish school change over time, to create a better realm. We applied different sets of parameters and social rules for each species of fish, to account for their social behaviour. The first developed the Algorithm of the Boids on an empty scene, to validate the behaviour of the fish swimming inside the boundaries of a Bounding Box Cube (Fig. 9). The fish continuously watch ahead to check the eventual presence of obstacles that must be avoided, diverging their routes or bouncing back (Fig. 11).</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3742" src="/4D-REEF/wp-content/uploads/Figure_8_resized.jpg" alt="" width="849" height="338" srcset="/4D-REEF/wp-content/uploads/Figure_8_resized-200x80.jpg 200w, /4D-REEF/wp-content/uploads/Figure_8_resized-300x119.jpg 300w, /4D-REEF/wp-content/uploads/Figure_8_resized-400x159.jpg 400w, /4D-REEF/wp-content/uploads/Figure_8_resized-600x239.jpg 600w, /4D-REEF/wp-content/uploads/Figure_8_resized-768x306.jpg 768w, /4D-REEF/wp-content/uploads/Figure_8_resized-800x318.jpg 800w, /4D-REEF/wp-content/uploads/Figure_8_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 8: Social behaviour of fish and anticollision (coloured lines).</em></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3743" src="/4D-REEF/wp-content/uploads/Figure_9_resized.jpg" alt="" width="849" height="359" srcset="/4D-REEF/wp-content/uploads/Figure_9_resized-200x85.jpg 200w, /4D-REEF/wp-content/uploads/Figure_9_resized-300x127.jpg 300w, /4D-REEF/wp-content/uploads/Figure_9_resized-400x169.jpg 400w, /4D-REEF/wp-content/uploads/Figure_9_resized-600x254.jpg 600w, /4D-REEF/wp-content/uploads/Figure_9_resized-768x325.jpg 768w, /4D-REEF/wp-content/uploads/Figure_9_resized-800x338.jpg 800w, /4D-REEF/wp-content/uploads/Figure_9_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 9: Principle of the implementation of a Pseudo-Random Flocking Fish Algorithm.</em></p>
+<p style="text-align: center;"><img decoding="async" class="aligncenter size-full wp-image-3744" src="/4D-REEF/wp-content/uploads/Figure_10_11_resized.jpg" alt="" width="849" height="344" srcset="/4D-REEF/wp-content/uploads/Figure_10_11_resized-200x81.jpg 200w, /4D-REEF/wp-content/uploads/Figure_10_11_resized-300x122.jpg 300w, /4D-REEF/wp-content/uploads/Figure_10_11_resized-400x162.jpg 400w, /4D-REEF/wp-content/uploads/Figure_10_11_resized-600x243.jpg 600w, /4D-REEF/wp-content/uploads/Figure_10_11_resized-669x272.jpg 669w, /4D-REEF/wp-content/uploads/Figure_10_11_resized-768x311.jpg 768w, /4D-REEF/wp-content/uploads/Figure_10_11_resized-800x324.jpg 800w, /4D-REEF/wp-content/uploads/Figure_10_11_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 10 (left): Social behaviour of fish and anticollision (coloured lines)<br />
+Figure 11 (right): Behaviour of a herd of fish at the Bounding Box Boundary</em></p>
+<p>As such we have produced a Digital Twin of the type of islands in the Spermonde Archipelago. We can eventually complete the scene with a Character that simulates the presence of a diver or of a marine mammal. Now we are ready to embed the data originated by surveying sampling missions conducted by the 4D-REEF ESRs. These datasets are mainly composed by a set of images and geographically pinpointed locations of coral and sedimentary samples. Their addition to the scene could give a direct overview of the works done on the site, and may be enriched with coral and benthic maps, or results of other custom animations. This first application is meant to be a fully featured baseline for further developments.</p>
+<p><strong><br />
+<span style="text-decoration: underline;">Digital Twin 2: 3D Coral Surveying at the Kodingareng Keke island</span></strong></p>
+<p>This Digital Twin can be downloaded <a href="https://omg-share-frankfurt.s3.eu-central-1.amazonaws.com/4d-reef/Kodingareng_Keke_Giudici.zip">here (link)</a>.</p>
+<p>This second demo concerns the development of a 3D environment built on the bathymetric map gathered during a bathymetric surveying mission held at the island of Kodigareng Keke summer 2022. We conducted the survey using a Multibeam Echo Sounder (MBES), to gather a high-resolution map of the seabed, over the lagoon and the reef slope, on waters not shallower than 1 m, as our surveying boat could not navigate on the 50 cm shallow reef flat. The raw bathymetric Dataset has been produced as 3D dense Point Cloud form, featuring hundreds of points per square inch (Fig. 12). We post processed the Dataset, removed outlier points, and added the 3D Point Cloud in the Unity 3D Gaming Engine, to create a terrain. The Point Cloud shows clearly the reef slope and some sedimentary architectures that would not be visible through underwater or satellite images and may worth further investigations, to help disclosing the evolution of the coral platform. We then developed two different views that will be detailed hereafter:</p>
+<ol>
+<li><strong>Satellite View:</strong> We wrapped the 3D terrain with a satellite orthophotography of the island, to build a realistic model of its emerged and underwater regions (Fig. 13).</li>
+<li><strong>Bathymetric View:</strong> In this latter view, we do not show any orthophotography of the islands, but we assign a scale of different colours for each different height, to give a better view of the depth of the seabed (Fig. 14).</li>
+</ol>
+<p>We also added some tools for measuring distances and depth.  The point (1), (2) and (3) at Fig. 15 show respectively the altitude of the island sand cay (51.58 m), the altitude at the middle of the reef slope (51.06 m) and the altitude at the lagoon (41,87 m). These values have been computed above the average altitude of the Reference Geoid used to calibrate the Bathymetric map. Underwater images have been shot at some spotted points along long-shore and cross-shore transects (point (4).</p>
+<p style="text-align: center;"><img decoding="async" class="aligncenter size-full wp-image-3745" src="/4D-REEF/wp-content/uploads/Figure_12_resized.jpg" alt="" width="849" height="472" srcset="/4D-REEF/wp-content/uploads/Figure_12_resized-200x111.jpg 200w, /4D-REEF/wp-content/uploads/Figure_12_resized-300x167.jpg 300w, /4D-REEF/wp-content/uploads/Figure_12_resized-400x222.jpg 400w, /4D-REEF/wp-content/uploads/Figure_12_resized-600x334.jpg 600w, /4D-REEF/wp-content/uploads/Figure_12_resized-768x427.jpg 768w, /4D-REEF/wp-content/uploads/Figure_12_resized-800x445.jpg 800w, /4D-REEF/wp-content/uploads/Figure_12_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 12: Original Point Cloud at Kodigareng Keke.</em></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3746" src="/4D-REEF/wp-content/uploads/Figure_13_resized.jpg" alt="" width="849" height="463" srcset="/4D-REEF/wp-content/uploads/Figure_13_resized-200x109.jpg 200w, /4D-REEF/wp-content/uploads/Figure_13_resized-300x164.jpg 300w, /4D-REEF/wp-content/uploads/Figure_13_resized-400x218.jpg 400w, /4D-REEF/wp-content/uploads/Figure_13_resized-600x327.jpg 600w, /4D-REEF/wp-content/uploads/Figure_13_resized-768x419.jpg 768w, /4D-REEF/wp-content/uploads/Figure_13_resized-800x436.jpg 800w, /4D-REEF/wp-content/uploads/Figure_13_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 13: 3D Satellite reconstruction of Kodigareng Keke.</em></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3747" src="/4D-REEF/wp-content/uploads/Figure_14_resized.jpg" alt="" width="849" height="453" srcset="/4D-REEF/wp-content/uploads/Figure_14_resized-200x107.jpg 200w, /4D-REEF/wp-content/uploads/Figure_14_resized-300x160.jpg 300w, /4D-REEF/wp-content/uploads/Figure_14_resized-400x213.jpg 400w, /4D-REEF/wp-content/uploads/Figure_14_resized-600x320.jpg 600w, /4D-REEF/wp-content/uploads/Figure_14_resized-768x410.jpg 768w, /4D-REEF/wp-content/uploads/Figure_14_resized-800x427.jpg 800w, /4D-REEF/wp-content/uploads/Figure_14_resized.jpg 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p style="text-align: center;"><em>Figure 14: 3D Bathymetric reconstruction of Kodigareng Keke.</em></p>
+<p><strong> </strong></p>
+<p><strong>Conclusion</strong></p>
+<p>I developed two Digital Twin solutions to help the scientific community develop novel tools for communicating science. We utilized some of the latest technologies, to create 3D realistic scenarios that can be extended for any educational purpose, ranging from 3D viewer to advanced Serious Games with first person view.  I always kept in mind that my product must be able to describe science through visual experiences and images, turning the scientific questions, contributions and results to pleasant interactives stories. Contributing to make science easy and understandable by communities of young students, should help them gathering a better comprehension of the marine life and promote their active participation to ongoing projects of research.</p>
+<p>&nbsp;</p>
+<p><strong>Further developments</strong></p>
+<p>The program could be extended to other islands of the Spermonde archipelago, to create a wider scenario and simulating the coral and sedimentary transport between islands. The current demo could be turned into a Serious Game based on the construction of a Reef, where the students would build and maintain their own reef.</p>
+
+
+<div class="esr-author">
+	<img decoding="async" src="/4D-REEF/wp-content/uploads/Roberto-Giudici-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2733"><span class="esr-link">Roberto Giudici</span></a> </h3> 
+	<p>MSc in Computer Science, MSc in Geomorphological Science</p>
+	<p>Ocean Maps GmbH, Austria</p></div>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3D visualisations of turbid reef study sites</title>
+		<link>/4D-REEF/roberto-3d-visualisations/</link>
+		
+		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2020 07:42:42 +0000</pubDate>
+				<category><![CDATA[ESR blog]]></category>
+		<category><![CDATA[Roberto Giudici]]></category>
+		<guid isPermaLink="false">/4D-REEF/?p=3307</guid>
+
+					<description><![CDATA[Ocean Maps, a privately held Austrian surveying company, is a beneficiary of the 4D-REEF programme hosting one of the Early Stage Researchers, Roberto Giudici. They are contributing to the 4D-REEF programme with their cutting-edge interactive 3D underwater visualization software. Designed for leisure scuba diving planning, Ocean Maps unleashes the potential of immersive simulation for unprecedented]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.ocean-maps.com/en/">Ocean Maps</a>, a privately held Austrian surveying company, is a beneficiary of the 4D-REEF programme hosting one of the Early Stage Researchers, <a href="/4D-REEF/esr/roberto-giudici/">Roberto Giudici</a>. They are contributing to the 4D-REEF programme with their cutting-edge interactive 3D underwater visualization software. Designed for leisure scuba diving planning, Ocean Maps unleashes the potential of immersive simulation for unprecedented dissemination accuracy.</p>
+<p>The image above shows an example of 3D visualisations of a hydroelectrical basin in Austria developed by Ocean Maps. Left panel: bathymetric map overlay on an absolute elevation scale. Right panel: differential bathymetric map overlay from two different surveys (2018 and 2019) computed on differences of 3D models (TIN).</p>
+<p><strong>A virtual dive in the Coral Triangle</strong><br />
+Roberto’s challenge will be to visualize the outcomes of different ESR projects within the 4D-REEF programme. A large panel of results in ecology, biology and geological dating is expected to be embedded into a single, full modular tool.</p>
+<p>Visualising scientific results in a meaningful and engaging way will be the key points for the success of this collaboration. This joint effort is meant to provide a unique virtual dive in the majesty of the vulnerable Coral Triangle. An experience targeting a large community of users, ranging from researchers to anyone willing to discover geological origins of coral reefs and potential impacts of climate change on these ecosystems.</p>
+<p><strong>Customization for 4D-REEF research outputs</strong><br />
+Roberto will customize the Ocean Maps program to fit specific outputs generated by the other 4D-REEF ESRs. This phase requires a joint effort to ensure a pleasant interactive visualization of the evolution of reef dynamics through visual indicators overlayed on an immersive 3D scene. Software engineers at Ocean Maps will develop 3D libraries for visualization of environmental, biological and geological data and entities showing the effects of turbid influences on benthic community composition and estuarine driven lithification. Particular attention will be given to ease of use and computational efficiency to provide a smooth user experience. The program is developed in Unity, one of the most advanced 3D engines available. A set of basic functions will be created to give a first insight of the new functionalities and will be refined once the final datasets and results are available.</p>
+<p>This cross-field experience will be a great enriching adventure, giving each researcher a new perspective of their project. Extensive coding will merge oceanic surveying and analysis for an exciting experience that will widen collaboration boundaries to a worldwide scale.</p>
+
+
+<div class="esr-author">
+	<img decoding="async" src="/4D-REEF/wp-content/uploads/Roberto-Giudici-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2733"><span class="esr-link">Roberto Giudici</span></a> </h3> 
+	<p>MSc in Computer Science, MSc in Geomorphological Science</p>
+	<p>Ocean Maps GmbH, Austria</p></div>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

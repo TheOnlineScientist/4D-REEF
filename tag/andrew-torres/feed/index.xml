@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Andrew Torres &#8211; 4D-REEF</title>
+	<atom:link href="/4D-REEF/tag/andrew-torres/feed/" rel="self" type="application/rss+xml" />
+	<link>/4D-REEF/</link>
+	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
+	<lastBuildDate>Wed, 16 Jun 2021 09:59:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Open and inclusive science can pave the way for baselining biodiversity</title>
+		<link>/4D-REEF/open-and-inclusive-science-can-pave-the-way-for-baselining-biodiversity/</link>
+		
+		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 09:59:22 +0000</pubDate>
+				<category><![CDATA[ESR blog]]></category>
+		<category><![CDATA[Andrew Torres]]></category>
+		<guid isPermaLink="false">/4D-REEF/?p=3504</guid>
+
+					<description><![CDATA[By Andrew F. Torres (ESR at Natural History Museum London) Studying gastropods (currently the second most diverse group of animals, only after insects) from Indonesia (which is right smack in the middle of a marine biodiversity hotspot) can be quite daunting. Comprising all the mucusy snails and slugs, gastropods are rockstars of evolution and adaptive]]></description>
+										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">By Andrew F. Torres (ESR at Natural History Museum London)</span></i></p>
+<p><span style="font-weight: 400;">Studying gastropods (currently the second most diverse group of animals, only after insects) from Indonesia (which is right smack in the middle of a marine biodiversity hotspot) can be quite daunting. Comprising all the mucusy snails and slugs, gastropods are rockstars of evolution and adaptive radiation and are made up of incredible diversity both in form and function. It can be particularly challenging to study this group of organisms because despite their widespread occurrence and abundance, they are still generally understudied. Research conducted on Indonesian marine gastropods have so far been patchy and disproportionate and have mostly focused on certain species or families at best. Not much is known about the total diversity of gastropods in the sea and with limited information, one can only go blindly moving forward with their research. In this aspect, and while we’re still stuck working from home, I turned to free and open access databases for help.</span></p>
+<p><b>The importance of open science for biodiversity</b><br />
+<span style="font-weight: 400;">Acknowledging the importance of making scientific research available to the public – be it in published articles, data, actual specimens, or software packages – was a giant stride in the right direction for modern science. Open science allows for transparency and reproducibility and stimulates collaboration. It limits redundancy and wasting of resources as increasingly data-driven scientific research continues to generate data at exponential rates. Through this, the creation of many free and publicly accessible databases and repositories, data standards, open-source tools, and open-access journals across different fields has been promoted. In connection with biodiversity studies like mine, natural history museums around the world which host hundreds of millions of field specimens, have started digitizing their samples and uploading these for any researcher interested in studying them (Figure 1). We stand on centuries worth of biodiversity collections but having restricted access to these will only defeat the purpose of their keeping.</span></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-3505" src="/4D-REEF/wp-content/uploads/Andrew-fig1.jpg" alt="" width="550" height="365" srcset="/4D-REEF/wp-content/uploads/Andrew-fig1-200x133.jpg 200w, /4D-REEF/wp-content/uploads/Andrew-fig1-300x199.jpg 300w, /4D-REEF/wp-content/uploads/Andrew-fig1-400x265.jpg 400w, /4D-REEF/wp-content/uploads/Andrew-fig1.jpg 463w" sizes="(max-width: 550px) 100vw, 550px" /><br />
+<span style="font-weight: 400;">Figure 1. Shell specimens of </span><i><span style="font-weight: 400;">Murex ternispina </span></i><span style="font-weight: 400;">collected in 1942 from the Batu Islands of Indonesia and kept at the Naturalis Biodiversity Center in Leiden. (Retrieved from <a href="https://bioportal.naturalis.nl/specimen/ZMA.MOLL.26777">https://bioportal.naturalis.nl/specimen/ZMA.MOLL.26777</a></span><span style="font-weight: 400;"> on 13 May 2021)</span></p>
+<p><b>So, how many species are there?</b><br />
+<span style="font-weight: 400;">Global and regional species diversity and distributions can be inferred by working through a pipeline of data repositories. A dataset of species occurrences can be downloaded from the Global Biodiversity Information Facility (</span><a href="https://www.gbif.org/"><span style="font-weight: 400;">GBIF</span></a><span style="font-weight: 400;">), which has become one of the largest databases for species occurrence information. It stores standardized biodiversity data of animals, plants, down to the microbes and viruses that are uploaded by major academic institutions and museums and even “amateur” naturalists around the world. Link this dataset up with the World Registry of Marine Species (</span><a href="https://www.marinespecies.org/"><span style="font-weight: 400;">WoRMS</span></a><span style="font-weight: 400;">) and you can easily update these records with authoritative taxonomy (reducing species assignment errors due to name revisions) and trim down your data further to what you really need. (You can then continue to work on the genetic resources available for these through BoLD and GenBank, but that’s for another time. :p)</span></p>
+<p><span style="font-weight: 400;">For my project, I downloaded the occurrences of all gastropods recorded in Indonesia and filtered them to marine-only taxa that must have both a locality and at least a genus identification. I ended up with a 43,009-record dataset with specimens collected all the way back to the 17th century. It was estimated that marine gastropods in Indonesia may comprise around 1,500 species (Hutomo and Moosa 2005). However, exploring the downloaded dataset (GBIF.org 2021) reveals that in a timespan of over 200 years, this hyperdiversity hotspot has been home to more than 3,000 species! And this count doesn’t even include the unnamed ones!</span></p>
+<p><img decoding="async" class="alignnone size-full wp-image-3507" src="/4D-REEF/wp-content/uploads/Andrew-fig2.png" alt="" width="849" height="353" srcset="/4D-REEF/wp-content/uploads/Andrew-fig2-200x83.png 200w, /4D-REEF/wp-content/uploads/Andrew-fig2-300x125.png 300w, /4D-REEF/wp-content/uploads/Andrew-fig2-400x166.png 400w, /4D-REEF/wp-content/uploads/Andrew-fig2-600x249.png 600w, /4D-REEF/wp-content/uploads/Andrew-fig2-768x319.png 768w, /4D-REEF/wp-content/uploads/Andrew-fig2-800x333.png 800w, /4D-REEF/wp-content/uploads/Andrew-fig2.png 849w" sizes="(max-width: 849px) 100vw, 849px" /><br />
+<span style="font-weight: 400;">Figure 2. (a) Species occurrence and (b) Proportion of shelled and non-shelled gastropods from records provided by academic institutions and by citizen science movements through the years.</span></p>
+<p><b>Inclusive science helps fill in the picture</b><br />
+<span style="font-weight: 400;">Examining the many contributing institutions of the dataset, we can notice the significant input of citizen science in the past decade (Figure 2a). Primarily through the iNaturalist platform, anyone with a camera can upload an observation of an organism and have the community of avid naturalists and scientists improve the record by vouching for or amending its taxon identification. This participatory kind of monitoring has been helpful in expanding the species coverages, notably for gastropods. With the recent interest in underwater photography and nudibranchs (Figure 3), recreational and professional SCUBA divers in the last couple of years have been sharing and uploading their underwater observations in citizen science platforms. This boosted the species occurrence records of non-shelled gastropods (including the non-nudibranch ones; Figure 2b), which would otherwise have been inadequately represented in museums’ plethora of seashells, showing just one of the many things that the community can contribute to science.</span></p>
+<p><img decoding="async" class="alignnone wp-image-3509" src="/4D-REEF/wp-content/uploads/Andrew-fig3.jpg" alt="" width="532" height="399" srcset="/4D-REEF/wp-content/uploads/Andrew-fig3-200x150.jpg 200w, /4D-REEF/wp-content/uploads/Andrew-fig3-300x225.jpg 300w, /4D-REEF/wp-content/uploads/Andrew-fig3-400x300.jpg 400w, /4D-REEF/wp-content/uploads/Andrew-fig3.jpg 409w" sizes="(max-width: 532px) 100vw, 532px" /><br />
+<span style="font-weight: 400;">Figure 3.</span> <span style="font-weight: 400;">A chromodorid nudibranch (Batangas, Philippines) perhaps wondering when they would get the vaccine. </span></p>
+<p><b>Moving forward</b><br />
+<span style="font-weight: 400;">But of course, characterizing baseline diversity has always been only the first step. Open and inclusive science have provided us with starting information to work with, but we still don’t know how much of this previously recorded diversity has already become locally extinct nor what is still left for us to protect and manage moving forward. These can only be known through continuous monitoring and research, which fingers-crossed my 4D-REEF microgastropod project will contribute to. </span></p>
+<p><span style="text-decoration: underline;">References</span><br />
+<span style="font-weight: 400;">GBIF.org (09 March 2021) GBIF Occurrence Download. https://doi.org/10.15468/dl.gbxx8d</span><br />
+<span style="font-weight: 400;">Hutomo M, Moosa MK (2005) Indonesian marine and coastal biodiversity: Present status. Indian Journal of Marine Science 34(1):88–97</span></p>
+
+
+<div class="esr-author">
+	<img decoding="async" src="/4D-REEF/wp-content/uploads/Andrew-Torres-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2722"><span class="esr-link">Andrew Torres</span></a> </h3> 
+	<p>MSc in Marine Science</p>
+	<p>Natural History Museum, UK</p></div>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Surveying what’s hidden: using ARMS to capture cryptic biodiversity</title>
+		<link>/4D-REEF/arms-deployment/</link>
+		
+		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 08:49:22 +0000</pubDate>
+				<category><![CDATA[4D-REEF update]]></category>
+		<category><![CDATA[ESR blog]]></category>
+		<category><![CDATA[Andrew Torres]]></category>
+		<category><![CDATA[Dedi Parenden]]></category>
+		<category><![CDATA[Dino Angelo Ramos]]></category>
+		<category><![CDATA[fieldwork]]></category>
+		<guid isPermaLink="false">/4D-REEF/?p=3484</guid>
+
+					<description><![CDATA[By Dino Ramos (ESR 11 at University of Granada), Andrew Torres (ESR 3 at Natural History Museum London) and Dedi Parenden (ESR 17 at Hasanuddin University) COVID-19 has made working in the field still out of grasp for most of the ESRs and for many months we have all been longing for the day when]]></description>
+										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">By Dino Ramos (ESR 11 at University of Granada), Andrew Torres (ESR 3 at Natural History Museum London) and Dedi Parenden (ESR 17 at Hasanuddin University)</span></i></p>
+<p><span style="font-weight: 400;">COVID-19 has made working in the field still out of grasp for most of the ESRs and for many months we have all been longing for the day when we can dive into the warm waters of the tropics (Figure 1). While it is still too early to predict when we might be able to dip our toes into Spermonde’s not-so-crystal-clear waters, with our colleagues from Hasanuddin University (UNHAS) on-site, we can start setting up sampling devices to help address a very basic question: “What organisms can we find in these coral reefs?”. </span></p>
+<p><img decoding="async" class="alignnone wp-image-3483" src="/4D-REEF/wp-content/uploads/ARMS-fig.jpg" alt="" width="645" height="484" srcset="/4D-REEF/wp-content/uploads/ARMS-fig-200x150.jpg 200w, /4D-REEF/wp-content/uploads/ARMS-fig-300x225.jpg 300w, /4D-REEF/wp-content/uploads/ARMS-fig-400x300.jpg 400w, /4D-REEF/wp-content/uploads/ARMS-fig-600x450.jpg 600w, /4D-REEF/wp-content/uploads/ARMS-fig-768x576.jpg 768w, /4D-REEF/wp-content/uploads/ARMS-fig-800x600.jpg 800w, /4D-REEF/wp-content/uploads/ARMS-fig.jpg 849w" sizes="(max-width: 645px) 100vw, 645px" /></p>
+<p>Figure 1. <span style="font-weight: 400;">Warm waters of the tropics. We’ll get there, buddy.</span></p>
+<p><b>Invisible species richness</b><br />
+<span style="font-weight: 400;">It is a simple question, but not an easy one to answer. The Spermonde Archipelago is a well-studied area and ever since the days of exploration, scientists and naturalists have been cataloguing its diverse and colorful marine life. Located almost at the geographic heart of the Coral Triangle, one can surmise the sheer scale of biodiversity that this group of islands may contain. It is likely that most of the obvious (i.e. large and charismatic) flora and fauna have already been recorded. However, the diversity of coral reefs is also a function of the many nooks and crannies formed by their complex three-dimensional structure. These also happen to be where our microsnails and coralline algae are expected to be the most diverse. Common survey methods such as the underwater visual census do not necessarily include these hidden microhabitats. It can also be quite tricky to sample the shy organisms all cozied up in the corals without totally wrecking their homes apart. How then can we find out who resides in these mysterious, hard-to-reach spaces? We use our ARMS.</span></p>
+<p><b>Artificial ‘hotels’ for reef creatures</b><br />
+<span style="font-weight: 400;">Autonomous Reef Monitoring Structures, or simply ARMS, are designed to simulate the cryptic spaces in coral reefs. They are made of stacked PVC plates (Figure 2) and fastened securely to the ocean floor amid coral reef habitats. Think of them as tiny apartelles for small marine life to check into. Each “floor” provides space for organisms to occupy. Floors alternately contain dividers to create either small rooms or larger floor spaces to settle onto. The longer these units are left in the ocean, the more ecological succession can take place to passively create different niches and accumulate more and more organisms (and organismal interactions!) through time (Figure 2c). These will represent at least part of the cryptic diversity present in the turbid reefs that we aim to investigate.</span></p>
+<p><img decoding="async" class="alignnone wp-image-3490" src="/4D-REEF/wp-content/uploads/ARMS-fig2.png" alt="" width="782" height="440" srcset="/4D-REEF/wp-content/uploads/ARMS-fig2-200x113.png 200w, /4D-REEF/wp-content/uploads/ARMS-fig2-300x169.png 300w, /4D-REEF/wp-content/uploads/ARMS-fig2-400x225.png 400w, /4D-REEF/wp-content/uploads/ARMS-fig2-600x338.png 600w, /4D-REEF/wp-content/uploads/ARMS-fig2-768x432.png 768w, /4D-REEF/wp-content/uploads/ARMS-fig2-800x450.png 800w, /4D-REEF/wp-content/uploads/ARMS-fig2.png 849w" sizes="(max-width: 782px) 100vw, 782px" /></p>
+<p><span style="font-weight: 400;">Figure 2. a) Autonomous Reef Monitoring Structures (ARMS) schematics from NOAA; b) ARMS units constructed at the University of Hasanuddin (UNHAS) ready to be deployed (photo by Halwi Masdar); c) A potential recruitment outlook in ARMS after three years.</span></p>
+<p><b>With a little bit of help from our Indonesian friends</b><br />
+<span style="font-weight: 400;">4D-REEF has a great collaboration with researchers and students from UNHAS, which shows even more value in these difficult times when we are unable to travel from Europe to Indonesia ourselves to deploy these ARMS. Now the rainy season is over, a group of UNHAS students went into the field to deploy 18 ARMS at turbid coral reefs near 6 islands which range in levels of turbidity. The distance of each of the six islands to the mainland and Makassar city varies. Some are really close and can be reached in 10-15 minutes by using a local community boat, while the farthest location, Langkai Island, is about 2 hours by boat. The field team cannot visit all islands on the same day, so it takes 4-5 days to visit all the research locations.</span></p>
+<p><b>DIY underwater </b><span style="font-weight: 400;">  </span><br />
+<span style="font-weight: 400;">The team, consisting of 5 scuba divers, is working hard under water using hammers, stakes, wrenches, nuts and bolts, to install the ARMS (Figure 3). Data about the environment is collected at the same time as well as a range of water quality measures. Water temperature and light loggers are also installed at the research sites, which will give us more information about the variability of the water conditions over time. During the ARMS deployment, all loggers that were installed a few months ago were checked and reloaded. All activities ran smoothly and without obstacles, because of good preparations, fairly good weather conditions and quite calm seas. We will regularly check whether the ARMS are still in place, and continue to read out the logger data. </span></p>
+<p><img decoding="async" class="alignnone size-full wp-image-3491" src="/4D-REEF/wp-content/uploads/ARMS-fig3.png" alt="" width="849" height="328" srcset="/4D-REEF/wp-content/uploads/ARMS-fig3-200x77.png 200w, /4D-REEF/wp-content/uploads/ARMS-fig3-300x116.png 300w, /4D-REEF/wp-content/uploads/ARMS-fig3-400x155.png 400w, /4D-REEF/wp-content/uploads/ARMS-fig3-600x232.png 600w, /4D-REEF/wp-content/uploads/ARMS-fig3-768x297.png 768w, /4D-REEF/wp-content/uploads/ARMS-fig3-800x309.png 800w, /4D-REEF/wp-content/uploads/ARMS-fig3.png 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p><span style="font-weight: 400;">Figure 3. Deployment of ARMS in the waters of the Spermonde Archipelago by our colleagues from UNHAS. The images clearly show the differences in turbidity between different sites.</span></p>
+<p><b>Connecting to global efforts</b><br />
+<span style="font-weight: 400;">The use of ARMS is a revolutionary way of capturing snapshots of reef biodiversity and how these are shaped by different environmental conditions. The dimensions of the ARMS units and its protocols are standardized according to the guidelines provided by the Global ARMS Program. So one of the many advantages to using ARMS is the comparisons we can make with the existing </span><a href="https://www.oceanarms.org/deployments/search"><span style="font-weight: 400;">network of ARMS projects</span></a><span style="font-weight: 400;">. Because of the reproducibility of ARMS, it allows us to contextualize our results on a much wider scale. And with the rapidly declining health of reefs around the world, it has become a very important and helpful tool to employ in understanding the complex ecology of our reef organisms. We are grateful that with the help from our Indonesian colleagues we can start collecting data despite not being able to travel to the field ourselves!</span></p>
+<p>&nbsp;</p>
+
+
+<div class="esr-author">
+	<img decoding="async" src="/4D-REEF/wp-content/uploads/Andrew-Torres-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2722"><span class="esr-link">Andrew Torres</span></a> </h3> 
+	<p>MSc in Marine Science</p>
+	<p>Natural History Museum, UK</p></div>
+
+<div class="esr-author">
+	<img decoding="async" src="/4D-REEF/wp-content/uploads/Dedi-Parenden-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2751"><span class="esr-link">Dedi Parenden</span></a> </h3> 
+	<p>MSc in Marine Management</p>
+	<p>University of Hasanuddin, Indonesia</p></div>
+
+<div class="esr-author">
+	<img decoding="async" src="/4D-REEF/wp-content/uploads/Dino-Angelo-Ramos-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2739"><span class="esr-link">Dino Angelo Ramos</span></a> </h3> 
+	<p>MSc in Taxonomy, Biodiversity and Evolution</p>
+	<p>University of Granada, Spain</p></div>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>habitat mapping &#8211; 4D-REEF</title>
+	<atom:link href="/4D-REEF/tag/habitat-mapping/feed/" rel="self" type="application/rss+xml" />
+	<link>/4D-REEF/</link>
+	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
+	<lastBuildDate>Tue, 05 Apr 2022 09:02:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Coral reef habitat mapping in Corona times</title>
+		<link>/4D-REEF/coral-reef-habitat-mapping-in-corona-times/</link>
+		
+		<dc:creator><![CDATA[Chantal Cornelissen]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2022 08:49:30 +0000</pubDate>
+				<category><![CDATA[ESR blog]]></category>
+		<category><![CDATA[Daniel Schürholz]]></category>
+		<category><![CDATA[habitat mapping]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<guid isPermaLink="false">/4D-REEF/?p=3637</guid>
+
+					<description><![CDATA[Blog by Daniel Christoph Schürholz, PhD student of 4D-REEF at the Max-Planck-Institute for Marine Microbiology.   The current global pandemic has affected all of our personal and professional lives. I myself started my PhD project two and a half years ago with quite a different plan than what ended up playing out. Especially the field]]></description>
+										<content:encoded><![CDATA[<p><em>Blog by Daniel Christoph Schürholz, PhD student of 4D-REEF at the Max-Planck-Institute for Marine Microbiology. </em></p>
+<p>&nbsp;</p>
+<p>The current global pandemic has affected all of our personal and professional lives. I myself started my PhD project two and a half years ago with quite a different plan than what ended up playing out. Especially the field work in the Spermonde Archipelago in Indonesia has been repeatedly scratched off the calendar, and no certain schedule is yet in place, despite the great efforts of the organization committee. But we adapt, and with a good and supportive team of colleagues we find ways to produce interesting results in these difficult times. Luckily, this has also been the case in my PhD project, in which we are using previously collected datasets and “plastic” coral reefs to continue developing our coral reef surveying tools.</p>
+<p><b>The evolution of underwater coral reef monitoring</b></p>
+<p>For a bit of context: my project has the aim of surveying the seafloor communities in coral reefs. Underwater surveying started with ecologists visually identifying the organisms they encountered as they dived along the coral reefs. This process is still used in certain studies, because of the detailed descriptions. However, it is a slow process and heavily dependent on the expert’s knowledge of the local flora and fauna, with different experts focusing on some organisms more than others, or just lacking the experience to make a detailed assessment. To tackle these issues, scientists started using underwater photography to speed things up and quickly scan the seafloor. They do so by taking images of rectangular plastic frames overlaid on the reef floor. Then with image annotation software, experts give labels to randomly sampled points (generally between 5 and 25) on dozens or hundreds of the images. The percentage cover of different organisms in the reef is then calculated (i.e. corals cover 20% of this reef and sponges cover 5%). This method is called point count and is widely used in ecological surveys of the seafloor. But what we are missing with these surveying techniques is a detailed spatial representation of the organisms, their surroundings and their distribution. In other words we are missing a thematic habitat map of the seafloor. It is similar to describing a country only by the percentage of the world’s landmass it covers (i.e. Canada – 6.1%, India – 2.0%, Peru – 0.9%), instead of producing a geopolitical map that shows the sizes and shapes of countries, their access to bodies of water or neighboring countries. The analyses you could do with both methods are quite different.</p>
+<p>With this in mind, researchers are using state-of-the-art technologies to automatically produce maps of terrestrial and marine habitats. Recent improvements in underwater photography, for example, with new diver operated devices, remotely operated vehicles and autonomous underwater vehicles , are producing a massive stream of new image data of underwater environments, such as coral reefs. Furthermore, structure-from-motion software enables stitching these underwater images together to form large and uninterrupted top-down views of the seafloor, called orthomosaics. However, to transform all these images and orthomosaics into habitat maps, experts still have to manually contour all organisms and objects in the images, then identify them and finally assign labels to them. This is a critical bottleneck in underwater monitoring and thus automating the map production process in a scalable manner is a necessity. Here enters machine learning (ML), more specifically, supervised learning. In supervised learning, an algorithm teaches computers to recognize certain patterns in the images (from textures and shapes in regular color images) and return a label for the whole image, or (more interestingly) one label for each pixel in the image, creating a dense habitat map of the coral reef seafloor.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone size-fusion-800 wp-image-3667" src="/4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden-800x572.png" alt="" width="800" height="572" srcset="/4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden-200x143.png 200w, /4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden-300x214.png 300w, /4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden-400x286.png 400w, /4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden-600x429.png 600w, /4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden-768x549.png 768w, /4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden-800x572.png 800w, /4D-REEF/wp-content/uploads/evolution_mapping_bijgesneden.png 1000w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><em>Figure 1. Simplified evolution of underwater mapping methods and the results in each case.</em></p>
+<p><b><br />
+Adapting to the lack of field work</b></p>
+<p>In my project we use a diver-operated device called the HyperDiver (HD), to acquire underwater hyperspectral images of coral reefs that are then used to produce detailed habitat maps. Hyperspectral images are like regular color images, but instead of capturing the usual 3 color bands (RGB) they capture many more (up to 400 with the HD) bands in the visible light range. The HD’s hyperspectral camera is a line-scanner, meaning that successive lines of 640 pixels wide are taken as the diver pushes the device forward, basically scanning the reef in long transects. The rich data in each transect supplies the ML algorithm with around 130 times more spectral information to identify targets in the images, instead of relying only on textures and shapes. This allows the ML to predict detailed labels for each pixel in the image, for example organisms can be recognized down to species level and different substrate types can be differentiated (turf algae, sediment, cyanobacterial mat).</p>
+<p>We developed a whole pipeline to produce these detailed habitat maps with ML algorithms from HD data. And since we have not been able to reach Indonesia, we tested our workflow with a “pre-pandemic” dataset, acquired in the Caribbean island of Curacao in 2016 by my supervisor Arjun Chennu. We found that the workflow produces accurate habitat maps from the images of coral reefs. I am currently working on describing the habitat structure and the biodiversity of the coral reefs of Curacao using these maps. Despite the great accuracy of the maps, one methodological caveat in the acquisition of the transects still remains. Namely that the transects form a barred grid of the reef with a one meter gap between each two parallel transects to reduce the redundancy produced by the overlap of the transects. This would be no issue if the transect images could be stitched together, but (because of methodological issues) this is not so straightforward. To solve this problem we have now expanded the HyperDiver’s imaging arsenal to capture color images that can be stitched together to produce orthomosaics, and then register the hyperspectral images on top of them.</p>
+<p><em><img decoding="async" class="alignnone size-fusion-800 wp-image-3654" src="/4D-REEF/wp-content/uploads/figure3-800x256.png" alt="" width="800" height="256" srcset="/4D-REEF/wp-content/uploads/figure3-200x64.png 200w, /4D-REEF/wp-content/uploads/figure3-300x96.png 300w, /4D-REEF/wp-content/uploads/figure3-400x128.png 400w, /4D-REEF/wp-content/uploads/figure3-600x192.png 600w, /4D-REEF/wp-content/uploads/figure3-768x245.png 768w, /4D-REEF/wp-content/uploads/figure3-800x256.png 800w, /4D-REEF/wp-content/uploads/figure3.png 967w" sizes="(max-width: 800px) 100vw, 800px" /><br />
+Figure 2. Example section from a transect’s habitat map from the Curacao dataset. Corals (yellow, orange and pink), macroalgae (light and dark green), turf algae (olive), sediment (cream), sponges (blue), coralline algae (red) and even cyanobacterial mat (purple) are accurately classified in the hyperspectral transect.</em></p>
+<p><img decoding="async" class="alignnone wp-image-3651" src="/4D-REEF/wp-content/uploads/figure4__aangepast-800x726.png" alt="" width="288" height="261" srcset="/4D-REEF/wp-content/uploads/figure4__aangepast-200x182.png 200w, /4D-REEF/wp-content/uploads/figure4__aangepast-300x272.png 300w, /4D-REEF/wp-content/uploads/figure4__aangepast-400x363.png 400w, /4D-REEF/wp-content/uploads/figure4__aangepast-600x545.png 600w, /4D-REEF/wp-content/uploads/figure4__aangepast-768x697.png 768w, /4D-REEF/wp-content/uploads/figure4__aangepast-800x726.png 800w, /4D-REEF/wp-content/uploads/figure4__aangepast.png 1000w" sizes="(max-width: 288px) 100vw, 288px" /></p>
+<p><em>Figure 3. Orthomosaic of &#8220;plastic corals&#8221; at the warehouse at the MPIMM. The orthomosaic was created using structure-from-motion software on images from the new color cameras added to the HyperDiver.</em></p>
+<p>We have equipped two ‘point-and-shoot’ color cameras on the exterior of the HD, facing down in slightly different angles. The images from these cameras will produce the basis to build an orthomosaic of the scene. Since testing the device in the field was not possible so far, we tried the new setting on dry land. For this purpose we found some materials in the warehouse of the Max Planck Institute for Marine Microbiology (where I am based) and laid them on the ground of a large rectangular space (around 10&#215;10 meters). We then lifted the HD with a crane and simulated a dive, pushing it around and over our ‘plastic coral reef’. I had envisioned my first test of the HD in a completely different setting, but nonetheless I found it was a good introduction. Handling three devices (HyperDiver + 2 external cameras) was not easy, and doing it in a calm (and dry!) setting helped me get used to all the quirks of the process. After scanning the warehouse-floor, I downloaded all the images from the 3 devices and built the very first HD orthomosaic. I am looking forward to trying the HD underwater and capturing the first ‘wet’ orthomosaic with it.</p>
+<p><img decoding="async" class="alignnone wp-image-3501" src="/4D-REEF/wp-content/uploads/figure5.gif" alt="" width="632" height="406" /><br />
+<em><br />
+Figure 4. When you cannot reach your field work site, scan plastic corals at your institute!</em></p>
+<p>We keep on developing the HD capabilities and have recently added a new multispectral camera to its camera inventory; I will write about this in a future post. Finally, I am thankful for the help from everybody involved in the project, which has made it possible to adapt to the obstacles posed by a global pandemic and its consequences.</p>
+<p>&nbsp;</p>
+
+
+<div class="esr-author">
+	<img decoding="async" src="/4D-REEF/wp-content/uploads/Daniel-Christoph-Schurholz-4D-REEF-early-stage-researcher-1-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2726"><span class="esr-link">Daniel Christoph Schürholz</span></a> </h3> 
+	<p>MSc in Computer Science</p>
+	<p>Max Planck Institute for Marine Microbiology, Germany</p></div>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
