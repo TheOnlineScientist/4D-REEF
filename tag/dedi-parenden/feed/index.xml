@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dedi Parenden &#8211; 4D-REEF</title>
-	<atom:link href="/4D-REEF/tag/dedi-parenden/feed/" rel="self" type="application/rss+xml" />
-	<link>/4D-REEF/</link>
+	<atom:link href="/tag/dedi-parenden/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
 	<lastBuildDate>Wed, 12 May 2021 08:49:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Surveying what’s hidden: using ARMS to capture cryptic biodiversity</title>
-		<link>/4D-REEF/arms-deployment/</link>
+		<link>/arms-deployment/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Wed, 12 May 2021 08:49:22 +0000</pubDate>
@@ -31,24 +31,24 @@
 		<category><![CDATA[Dedi Parenden]]></category>
 		<category><![CDATA[Dino Angelo Ramos]]></category>
 		<category><![CDATA[fieldwork]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3484</guid>
+		<guid isPermaLink="false">/?p=3484</guid>
 
 					<description><![CDATA[By Dino Ramos (ESR 11 at University of Granada), Andrew Torres (ESR 3 at Natural History Museum London) and Dedi Parenden (ESR 17 at Hasanuddin University) COVID-19 has made working in the field still out of grasp for most of the ESRs and for many months we have all been longing for the day when]]></description>
 										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">By Dino Ramos (ESR 11 at University of Granada), Andrew Torres (ESR 3 at Natural History Museum London) and Dedi Parenden (ESR 17 at Hasanuddin University)</span></i></p>
 <p><span style="font-weight: 400;">COVID-19 has made working in the field still out of grasp for most of the ESRs and for many months we have all been longing for the day when we can dive into the warm waters of the tropics (Figure 1). While it is still too early to predict when we might be able to dip our toes into Spermonde’s not-so-crystal-clear waters, with our colleagues from Hasanuddin University (UNHAS) on-site, we can start setting up sampling devices to help address a very basic question: “What organisms can we find in these coral reefs?”. </span></p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-3483" src="/4D-REEF/wp-content/uploads/ARMS-fig.jpg" alt="" width="645" height="484" srcset="/4D-REEF/wp-content/uploads/ARMS-fig-200x150.jpg 200w, /4D-REEF/wp-content/uploads/ARMS-fig-300x225.jpg 300w, /4D-REEF/wp-content/uploads/ARMS-fig-400x300.jpg 400w, /4D-REEF/wp-content/uploads/ARMS-fig-600x450.jpg 600w, /4D-REEF/wp-content/uploads/ARMS-fig-768x576.jpg 768w, /4D-REEF/wp-content/uploads/ARMS-fig-800x600.jpg 800w, /4D-REEF/wp-content/uploads/ARMS-fig.jpg 849w" sizes="(max-width: 645px) 100vw, 645px" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-3483" src="/wp-content/uploads/ARMS-fig.jpg" alt="" width="645" height="484" srcset="/wp-content/uploads/ARMS-fig-200x150.jpg 200w, /wp-content/uploads/ARMS-fig-300x225.jpg 300w, /wp-content/uploads/ARMS-fig-400x300.jpg 400w, /wp-content/uploads/ARMS-fig-600x450.jpg 600w, /wp-content/uploads/ARMS-fig-768x576.jpg 768w, /wp-content/uploads/ARMS-fig-800x600.jpg 800w, /wp-content/uploads/ARMS-fig.jpg 849w" sizes="(max-width: 645px) 100vw, 645px" /></p>
 <p>Figure 1. <span style="font-weight: 400;">Warm waters of the tropics. We’ll get there, buddy.</span></p>
 <p><b>Invisible species richness</b><br />
 <span style="font-weight: 400;">It is a simple question, but not an easy one to answer. The Spermonde Archipelago is a well-studied area and ever since the days of exploration, scientists and naturalists have been cataloguing its diverse and colorful marine life. Located almost at the geographic heart of the Coral Triangle, one can surmise the sheer scale of biodiversity that this group of islands may contain. It is likely that most of the obvious (i.e. large and charismatic) flora and fauna have already been recorded. However, the diversity of coral reefs is also a function of the many nooks and crannies formed by their complex three-dimensional structure. These also happen to be where our microsnails and coralline algae are expected to be the most diverse. Common survey methods such as the underwater visual census do not necessarily include these hidden microhabitats. It can also be quite tricky to sample the shy organisms all cozied up in the corals without totally wrecking their homes apart. How then can we find out who resides in these mysterious, hard-to-reach spaces? We use our ARMS.</span></p>
 <p><b>Artificial ‘hotels’ for reef creatures</b><br />
 <span style="font-weight: 400;">Autonomous Reef Monitoring Structures, or simply ARMS, are designed to simulate the cryptic spaces in coral reefs. They are made of stacked PVC plates (Figure 2) and fastened securely to the ocean floor amid coral reef habitats. Think of them as tiny apartelles for small marine life to check into. Each “floor” provides space for organisms to occupy. Floors alternately contain dividers to create either small rooms or larger floor spaces to settle onto. The longer these units are left in the ocean, the more ecological succession can take place to passively create different niches and accumulate more and more organisms (and organismal interactions!) through time (Figure 2c). These will represent at least part of the cryptic diversity present in the turbid reefs that we aim to investigate.</span></p>
-<p><img decoding="async" class="alignnone wp-image-3490" src="/4D-REEF/wp-content/uploads/ARMS-fig2.png" alt="" width="782" height="440" srcset="/4D-REEF/wp-content/uploads/ARMS-fig2-200x113.png 200w, /4D-REEF/wp-content/uploads/ARMS-fig2-300x169.png 300w, /4D-REEF/wp-content/uploads/ARMS-fig2-400x225.png 400w, /4D-REEF/wp-content/uploads/ARMS-fig2-600x338.png 600w, /4D-REEF/wp-content/uploads/ARMS-fig2-768x432.png 768w, /4D-REEF/wp-content/uploads/ARMS-fig2-800x450.png 800w, /4D-REEF/wp-content/uploads/ARMS-fig2.png 849w" sizes="(max-width: 782px) 100vw, 782px" /></p>
+<p><img decoding="async" class="alignnone wp-image-3490" src="/wp-content/uploads/ARMS-fig2.png" alt="" width="782" height="440" srcset="/wp-content/uploads/ARMS-fig2-200x113.png 200w, /wp-content/uploads/ARMS-fig2-300x169.png 300w, /wp-content/uploads/ARMS-fig2-400x225.png 400w, /wp-content/uploads/ARMS-fig2-600x338.png 600w, /wp-content/uploads/ARMS-fig2-768x432.png 768w, /wp-content/uploads/ARMS-fig2-800x450.png 800w, /wp-content/uploads/ARMS-fig2.png 849w" sizes="(max-width: 782px) 100vw, 782px" /></p>
 <p><span style="font-weight: 400;">Figure 2. a) Autonomous Reef Monitoring Structures (ARMS) schematics from NOAA; b) ARMS units constructed at the University of Hasanuddin (UNHAS) ready to be deployed (photo by Halwi Masdar); c) A potential recruitment outlook in ARMS after three years.</span></p>
 <p><b>With a little bit of help from our Indonesian friends</b><br />
 <span style="font-weight: 400;">4D-REEF has a great collaboration with researchers and students from UNHAS, which shows even more value in these difficult times when we are unable to travel from Europe to Indonesia ourselves to deploy these ARMS. Now the rainy season is over, a group of UNHAS students went into the field to deploy 18 ARMS at turbid coral reefs near 6 islands which range in levels of turbidity. The distance of each of the six islands to the mainland and Makassar city varies. Some are really close and can be reached in 10-15 minutes by using a local community boat, while the farthest location, Langkai Island, is about 2 hours by boat. The field team cannot visit all islands on the same day, so it takes 4-5 days to visit all the research locations.</span></p>
 <p><b>DIY underwater </b><span style="font-weight: 400;">  </span><br />
 <span style="font-weight: 400;">The team, consisting of 5 scuba divers, is working hard under water using hammers, stakes, wrenches, nuts and bolts, to install the ARMS (Figure 3). Data about the environment is collected at the same time as well as a range of water quality measures. Water temperature and light loggers are also installed at the research sites, which will give us more information about the variability of the water conditions over time. During the ARMS deployment, all loggers that were installed a few months ago were checked and reloaded. All activities ran smoothly and without obstacles, because of good preparations, fairly good weather conditions and quite calm seas. We will regularly check whether the ARMS are still in place, and continue to read out the logger data. </span></p>
-<p><img decoding="async" class="alignnone size-full wp-image-3491" src="/4D-REEF/wp-content/uploads/ARMS-fig3.png" alt="" width="849" height="328" srcset="/4D-REEF/wp-content/uploads/ARMS-fig3-200x77.png 200w, /4D-REEF/wp-content/uploads/ARMS-fig3-300x116.png 300w, /4D-REEF/wp-content/uploads/ARMS-fig3-400x155.png 400w, /4D-REEF/wp-content/uploads/ARMS-fig3-600x232.png 600w, /4D-REEF/wp-content/uploads/ARMS-fig3-768x297.png 768w, /4D-REEF/wp-content/uploads/ARMS-fig3-800x309.png 800w, /4D-REEF/wp-content/uploads/ARMS-fig3.png 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p><img decoding="async" class="alignnone size-full wp-image-3491" src="/wp-content/uploads/ARMS-fig3.png" alt="" width="849" height="328" srcset="/wp-content/uploads/ARMS-fig3-200x77.png 200w, /wp-content/uploads/ARMS-fig3-300x116.png 300w, /wp-content/uploads/ARMS-fig3-400x155.png 400w, /wp-content/uploads/ARMS-fig3-600x232.png 600w, /wp-content/uploads/ARMS-fig3-768x297.png 768w, /wp-content/uploads/ARMS-fig3-800x309.png 800w, /wp-content/uploads/ARMS-fig3.png 849w" sizes="(max-width: 849px) 100vw, 849px" /></p>
 <p><span style="font-weight: 400;">Figure 3. Deployment of ARMS in the waters of the Spermonde Archipelago by our colleagues from UNHAS. The images clearly show the differences in turbidity between different sites.</span></p>
 <p><b>Connecting to global efforts</b><br />
 <span style="font-weight: 400;">The use of ARMS is a revolutionary way of capturing snapshots of reef biodiversity and how these are shaped by different environmental conditions. The dimensions of the ARMS units and its protocols are standardized according to the guidelines provided by the Global ARMS Program. So one of the many advantages to using ARMS is the comparisons we can make with the existing </span><a href="https://www.oceanarms.org/deployments/search"><span style="font-weight: 400;">network of ARMS projects</span></a><span style="font-weight: 400;">. Because of the reproducibility of ARMS, it allows us to contextualize our results on a much wider scale. And with the rapidly declining health of reefs around the world, it has become a very important and helpful tool to employ in understanding the complex ecology of our reef organisms. We are grateful that with the help from our Indonesian colleagues we can start collecting data despite not being able to travel to the field ourselves!</span></p>
@@ -56,20 +56,20 @@
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Andrew-Torres-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2722"><span class="esr-link">Andrew Torres</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Andrew-Torres-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2722"><span class="esr-link">Andrew Torres</span></a> </h3> 
 	<p>MSc in Marine Science</p>
 	<p>Natural History Museum, UK</p></div>
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Dedi-Parenden-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2751"><span class="esr-link">Dedi Parenden</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Dedi-Parenden-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2751"><span class="esr-link">Dedi Parenden</span></a> </h3> 
 	<p>MSc in Marine Management</p>
 	<p>University of Hasanuddin, Indonesia</p></div>
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Dino-Angelo-Ramos-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2739"><span class="esr-link">Dino Angelo Ramos</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Dino-Angelo-Ramos-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2739"><span class="esr-link">Dino Angelo Ramos</span></a> </h3> 
 	<p>MSc in Taxonomy, Biodiversity and Evolution</p>
 	<p>University of Granada, Spain</p></div>
 

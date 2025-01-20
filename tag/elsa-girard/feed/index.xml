@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Elsa Girard &#8211; 4D-REEF</title>
-	<atom:link href="/4D-REEF/tag/elsa-girard/feed/" rel="self" type="application/rss+xml" />
-	<link>/4D-REEF/</link>
+	<atom:link href="/tag/elsa-girard/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
 	<lastBuildDate>Wed, 09 Jun 2021 07:45:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Decalcification trials on living forams at Naturalis</title>
-		<link>/4D-REEF/decalcification-trials-on-living-forams-at-naturalis/</link>
+		<link>/decalcification-trials-on-living-forams-at-naturalis/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Wed, 09 Jun 2021 07:45:45 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Elsa Girard]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3496</guid>
+		<guid isPermaLink="false">/?p=3496</guid>
 
 					<description><![CDATA[By Elsa B. Girard (ESR at Naturalis Biodiversity Center) A new pet at Naturalis To fill the hole left by the impossibility to go to the field in Indonesia in 2020, we decided to host special guests at Naturalis… One of the only living creatures at Naturalis, besides plants and humans: large benthic foraminifera! Yes,]]></description>
 										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">By Elsa B. Girard (ESR at Naturalis Biodiversity Center)</span></i></p>
 <p><b>A new pet at Naturalis</b><br />
 <span style="font-weight: 400;">To fill the hole left by the impossibility to go to the field in Indonesia in 2020, we decided to host special guests at Naturalis… One of the only living creatures at Naturalis, besides plants and humans: large benthic foraminifera! Yes, that’s right! Burger’s Zoo (Arnhem, the Netherlands) kindly offered us 2 kg of sediment from their large “homemade” Indo-Pacific coral reef aquarium full of tiny forams, amongst others. After sorting out the forams, we found two main species: </span><i><span style="font-weight: 400;">Heterostegina depressa</span></i><span style="font-weight: 400;"> and </span><i><span style="font-weight: 400;">Amphistegina</span></i><span style="font-weight: 400;"> sp..</span></p>
-<p><img fetchpriority="high" decoding="async" class="alignnone  wp-image-3500" src="/4D-REEF/wp-content/uploads/Elsa_foram-decalcification.png" alt="" width="710" height="568" srcset="/4D-REEF/wp-content/uploads/Elsa_foram-decalcification-177x142.png 177w, /4D-REEF/wp-content/uploads/Elsa_foram-decalcification-200x160.png 200w, /4D-REEF/wp-content/uploads/Elsa_foram-decalcification-300x240.png 300w, /4D-REEF/wp-content/uploads/Elsa_foram-decalcification-400x320.png 400w, /4D-REEF/wp-content/uploads/Elsa_foram-decalcification-600x480.png 600w, /4D-REEF/wp-content/uploads/Elsa_foram-decalcification-768x615.png 768w, /4D-REEF/wp-content/uploads/Elsa_foram-decalcification-800x640.png 800w, /4D-REEF/wp-content/uploads/Elsa_foram-decalcification.png 1016w" sizes="(max-width: 710px) 100vw, 710px" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone  wp-image-3500" src="/wp-content/uploads/Elsa_foram-decalcification.png" alt="" width="710" height="568" srcset="/wp-content/uploads/Elsa_foram-decalcification-177x142.png 177w, /wp-content/uploads/Elsa_foram-decalcification-200x160.png 200w, /wp-content/uploads/Elsa_foram-decalcification-300x240.png 300w, /wp-content/uploads/Elsa_foram-decalcification-400x320.png 400w, /wp-content/uploads/Elsa_foram-decalcification-600x480.png 600w, /wp-content/uploads/Elsa_foram-decalcification-768x615.png 768w, /wp-content/uploads/Elsa_foram-decalcification-800x640.png 800w, /wp-content/uploads/Elsa_foram-decalcification.png 1016w" sizes="(max-width: 710px) 100vw, 710px" /></p>
 <p><b>The decalcification experiment</b><br />
 <span style="font-weight: 400;">Forams are very well treated until they volunteer for science. In that case, they undergo bleaching at high temperature and bright light and are soaked in acidified seawater for decalcification. The goal of the experiment is to isolate their DNA in a clean way. Since large benthic forams host microalgae, which give them this brownish color, their DNA is highly contaminated with the symbiont genome. We now have a good protocol to decalcify forams, but we are still struggling in getting rid of their symbionts (see animation below). Once we succeed in bleaching the forams, we can obtain a cleaner DNA extract for long read sequencing!</span></p>
 <p><span style="font-weight: 400;">Thousand thanks to Anouk Langerak (bachelor student, University of Applied Sciences, Leiden) for her great work in the lab with us!</span></p>
-<p><img decoding="async" class="alignnone  wp-image-3501" src="/4D-REEF/wp-content/uploads/Elsa_foram-decalcification.gif" alt="" width="632" height="406" /></p>
+<p><img decoding="async" class="alignnone  wp-image-3501" src="/wp-content/uploads/Elsa_foram-decalcification.gif" alt="" width="632" height="406" /></p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
 	<p>MSc in Geobiology and Paleobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 
@@ -53,14 +53,14 @@
 			</item>
 		<item>
 		<title>Looking at coral reefs’ environmental parameters from space</title>
-		<link>/4D-REEF/looking-at-coral-reefs-environmental-parameters-from-space/</link>
+		<link>/looking-at-coral-reefs-environmental-parameters-from-space/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Wed, 21 Apr 2021 13:38:40 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Elsa Girard]]></category>
 		<category><![CDATA[Jan-Christopher Fisher]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3462</guid>
+		<guid isPermaLink="false">/?p=3462</guid>
 
 					<description><![CDATA[By JC Fischer &amp; Elsa B. Girard (ESRs at University of Bristol and Naturalis Biodiversity Center) Environmental conditions can provide essential information for any ecological analysis of coral reefs. To improve our understanding on temporal trends of reef communities, we attempt to link two main components: the organism itself with its environment. Taking into account]]></description>
 										<content:encoded><![CDATA[<p><em>By JC Fischer &amp; Elsa B. Girard (ESRs at University of Bristol and Naturalis Biodiversity Center)</em></p>
@@ -100,24 +100,24 @@ Both Landsat and MODIS (Moderate Resolution Imaging Spectroradiometer) satellite
 <p>&nbsp;</p>
 <p><b>Blue skies, better images</b><br />
 Elsa is interested in the seasonal variation of Spermonde’s turbidity. Therefore, Landsat poses a problem because only two images are taken each month (see Figure 1). Although the quality of the images is very good during the dry season (sunny and clear sky), we cannot say the same about the wet and rainy season when the clouds take over the area. It would be ideal to find a satellite that has a high resolution like Landsat, but covers the area more frequently. Fortunately, such satellites exist (e.g., Sentinel), but these have been orbiting the Earth for only a few years. This is why the long-term records from Landsat are still highly valuable!</p>
-<p><img decoding="async" class="alignnone wp-image-3468" src="/4D-REEF/wp-content/uploads/TurbiditychangeANDrainANDtime-2013-2021.gif" alt="" width="549" height="478" /><br />
+<p><img decoding="async" class="alignnone wp-image-3468" src="/wp-content/uploads/TurbiditychangeANDrainANDtime-2013-2021.gif" alt="" width="549" height="478" /><br />
 Figure 1. Presentation of the coastal turbidity gradient in the Spermonde Archipelago (South Sulawesi, Indonesia) from 2013 to 2021 using Landsat 8 Aquatic Reflectance data product. Top: Points in time when satellite images were taken. Bottom left: Derived turbidity from satellite images. Black shows land and clouds; white to red scale shows the turbidity gradient. Bottom right: Rainfall (mm) of the 7 days before the satellite image was taken.</p>
 <p><strong>Water temperatures over time</strong><br />
 The optical ocean water parameters provided by MODIS can serve as references to contemporary habitat conditions over the past two decades. As an example, variations in monthly sea surface temperature in the Spermonde Archipelago are displayed in Figure 2. While the short revisit time enables detection of dynamic changes in large-scale oceanographic patterns, like e.g., the Indian-Ocean-Dipole temperature oscillations, fine-scale features can not be captured due to the relatively coarse spatial resolution.</p>
-<p><img decoding="async" class="alignnone wp-image-3476" src="/4D-REEF/wp-content/uploads/SST_mean_05sec.gif" alt="" width="592" height="592" /><br />
+<p><img decoding="async" class="alignnone wp-image-3476" src="/wp-content/uploads/SST_mean_05sec.gif" alt="" width="592" height="592" /><br />
 Figure 2. Monthly mean sea surface temperature in °Celsius in the Spermonde Archipelago extracted from MODIS Aqua imagery data from July 2002 until December 2020. Terrestrial surfaces are shown in grey, the islands of the archipelago are displayed in red and a 50km-buffer zone around the islands is outlined in black.</p>
 <p>Nevertheless, both different sensors have their specific advantages enabling us to reconstruct local environmental conditions. By using those resources we hope to contribute towards an improved understanding of benthic community dynamics over time!</p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
 	<p>MSc in Geobiology and Paleobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Jan-Christopher-Fisher-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2731"><span class="esr-link">Jan-Christopher Fischer</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Jan-Christopher-Fisher-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2731"><span class="esr-link">Jan-Christopher Fischer</span></a> </h3> 
 	<p>MSc in Global Change Ecology</p>
 	<p>University of Bristol, UK</p></div>
 
@@ -128,36 +128,36 @@ Figure 2. Monthly mean sea surface temperature in °Celsius in the Spermonde Arc
 			</item>
 		<item>
 		<title>Lab work: an ideal reason to flee the home office</title>
-		<link>/4D-REEF/elsa-mike-labwork/</link>
+		<link>/elsa-mike-labwork/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Thu, 12 Nov 2020 12:30:59 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Elsa Girard]]></category>
 		<category><![CDATA[Mike Hynes]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3386</guid>
+		<guid isPermaLink="false">/?p=3386</guid>
 
 					<description><![CDATA[By Elsa B. Girard and Mike Hynes (ESRs at Naturalis Biodiversity Center) Since September, Elsa and Mike left home on a part-time basis to do lab work at Naturalis Biodiversity Center. Not only do they get to learn new techniques and supervise, but it is also their chance to flee home for once in a]]></description>
 										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">By Elsa B. Girard and Mike Hynes (ESRs at Naturalis Biodiversity Center)</span></i></p>
 <p><span style="font-weight: 400;">Since September, Elsa and Mike left home on a part-time basis to do lab work at Naturalis Biodiversity Center. Not only do they get to learn new techniques and supervise, but it is also their chance to flee home for once in a while during COVID-19 restrictions. </span></p>
 <p><span style="font-weight: 400;">Anouk, a bachelor student working with Elsa on building a foram DNA reference database, has been working at least three days a week in the lab (Figure 1). Elsa and Anouk are taking up the challenge of foram DNA amplification, which is not a small task filled with many hiccups. With a goal to sequence DNA from 20 large benthic foraminifera species, they so far reached 4 good species amplifications out of 5. Anouk will work on a new round of species next week with, hopefully, some more successful results!</span></p>
-<p><img decoding="async" class="alignnone wp-image-3402" src="/4D-REEF/wp-content/uploads/Elsa_Labwork.png" alt="" width="849" height="656" srcset="/4D-REEF/wp-content/uploads/Elsa_Labwork-200x154.png 200w, /4D-REEF/wp-content/uploads/Elsa_Labwork-300x232.png 300w, /4D-REEF/wp-content/uploads/Elsa_Labwork-400x309.png 400w, /4D-REEF/wp-content/uploads/Elsa_Labwork-600x463.png 600w, /4D-REEF/wp-content/uploads/Elsa_Labwork-768x593.png 768w, /4D-REEF/wp-content/uploads/Elsa_Labwork-800x618.png 800w, /4D-REEF/wp-content/uploads/Elsa_Labwork-1024x791.png 1024w, /4D-REEF/wp-content/uploads/Elsa_Labwork-1200x927.png 1200w, /4D-REEF/wp-content/uploads/Elsa_Labwork-1536x1186.png 1536w, /4D-REEF/wp-content/uploads/Elsa_Labwork.png 2465w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p><img decoding="async" class="alignnone wp-image-3402" src="/wp-content/uploads/Elsa_Labwork.png" alt="" width="849" height="656" srcset="/wp-content/uploads/Elsa_Labwork-200x154.png 200w, /wp-content/uploads/Elsa_Labwork-300x232.png 300w, /wp-content/uploads/Elsa_Labwork-400x309.png 400w, /wp-content/uploads/Elsa_Labwork-600x463.png 600w, /wp-content/uploads/Elsa_Labwork-768x593.png 768w, /wp-content/uploads/Elsa_Labwork-800x618.png 800w, /wp-content/uploads/Elsa_Labwork-1024x791.png 1024w, /wp-content/uploads/Elsa_Labwork-1200x927.png 1200w, /wp-content/uploads/Elsa_Labwork-1536x1186.png 1536w, /wp-content/uploads/Elsa_Labwork.png 2465w" sizes="(max-width: 849px) 100vw, 849px" /></p>
 <p><span style="font-weight: 400;">Figure 1. Workflow of Elsa and Anouk in the lab.</span></p>
 <p><span style="font-weight: 400;">In the lab next door, Mike has been analyzing previously collected sediments from Indonesia for sponge spicules (spicules are sort of like skeletons for a sponge). This is a preliminary trial to see what we can learn about Indonesian sponges using techniques Mike has previously used on Caribbean sediments. Figure 2 shows that there are a few steps required to isolate sponge spicules. We add acetic acid and hydrogen peroxide to remove the majority of the unwanted materials, leaving mostly just silica based sponge spicules behind. With these spicules we can hopefully determine what the most common sponges are in this area, and possibly be able to compare these to reefs from the past!</span></p>
-<p><img decoding="async" class="alignnone wp-image-3400" src="/4D-REEF/wp-content/uploads/Mike_Labwork-1.png" alt="" width="934" height="790" srcset="/4D-REEF/wp-content/uploads/Mike_Labwork-1-200x169.png 200w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-300x254.png 300w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-400x338.png 400w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-600x507.png 600w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-768x649.png 768w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-800x676.png 800w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-1024x866.png 1024w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-1200x1014.png 1200w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-1536x1298.png 1536w, /4D-REEF/wp-content/uploads/Mike_Labwork-1.png 2845w" sizes="(max-width: 934px) 100vw, 934px" /></p>
+<p><img decoding="async" class="alignnone wp-image-3400" src="/wp-content/uploads/Mike_Labwork-1.png" alt="" width="934" height="790" srcset="/wp-content/uploads/Mike_Labwork-1-200x169.png 200w, /wp-content/uploads/Mike_Labwork-1-300x254.png 300w, /wp-content/uploads/Mike_Labwork-1-400x338.png 400w, /wp-content/uploads/Mike_Labwork-1-600x507.png 600w, /wp-content/uploads/Mike_Labwork-1-768x649.png 768w, /wp-content/uploads/Mike_Labwork-1-800x676.png 800w, /wp-content/uploads/Mike_Labwork-1-1024x866.png 1024w, /wp-content/uploads/Mike_Labwork-1-1200x1014.png 1200w, /wp-content/uploads/Mike_Labwork-1-1536x1298.png 1536w, /wp-content/uploads/Mike_Labwork-1.png 2845w" sizes="(max-width: 934px) 100vw, 934px" /></p>
 <p><span style="font-weight: 400;">Figure 2. Mike isolating sponge spicules from Indonesian sediments.</span></p>
 <p><span style="font-weight: 400;">William, the third 4D-REEF ESR at Naturalis, will have duty in the collection lab very soon too, so watch out for his blog post in the coming months!</span></p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
 	<p>MSc in Geobiology and Paleobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Mike-Hynes-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2741"><span class="esr-link">Mike Hynes</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Mike-Hynes-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2741"><span class="esr-link">Mike Hynes</span></a> </h3> 
 	<p>MSc in Palaeobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 
@@ -168,32 +168,32 @@ Figure 2. Monthly mean sea surface temperature in °Celsius in the Spermonde Arc
 			</item>
 		<item>
 		<title>2nd Network Training Activity for the 4D-REEF Consortium</title>
-		<link>/4D-REEF/nta2/</link>
+		<link>/nta2/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Thu, 13 Aug 2020 13:54:12 +0000</pubDate>
 				<category><![CDATA[Network Activities]]></category>
 		<category><![CDATA[Elsa Girard]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3329</guid>
+		<guid isPermaLink="false">/?p=3329</guid>
 
 					<description><![CDATA[Due to the COVID-19 pandemic, we unfortunately had to postpone our planned fieldwork in Indonesia and therefore also the Network Training Activity that was scheduled to take place in Makassar. This NTA would have included training in field techniques and explorations of the turbid reef environments in the Spermonde Archipelago in south Sulawesi, Indonesia. Instead,]]></description>
 										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Due to the COVID-19 pandemic, we unfortunately had to postpone our planned fieldwork in Indonesia and therefore also the Network Training Activity that was scheduled to take place in Makassar. This NTA would have included training in field techniques and explorations of the turbid reef environments in the Spermonde Archipelago in south Sulawesi, Indonesia.</span></p>
 <p><span style="font-weight: 400;">Instead, we filled this NTA program with other activities including a training on science communication, topical discussion groups, and a panel session around Indonesian perspectives to coral reef management.</span></p>
-<p><span style="font-weight: 400;"><img decoding="async" class="alignnone size-full wp-image-3334" src="/4D-REEF/wp-content/uploads/NTA2_SciComm.png" alt="" width="596" height="727" srcset="/4D-REEF/wp-content/uploads/NTA2_SciComm-200x244.png 200w, /4D-REEF/wp-content/uploads/NTA2_SciComm-246x300.png 246w, /4D-REEF/wp-content/uploads/NTA2_SciComm-400x488.png 400w, /4D-REEF/wp-content/uploads/NTA2_SciComm.png 596w" sizes="(max-width: 596px) 100vw, 596px" /></span></p>
+<p><span style="font-weight: 400;"><img decoding="async" class="alignnone size-full wp-image-3334" src="/wp-content/uploads/NTA2_SciComm.png" alt="" width="596" height="727" srcset="/wp-content/uploads/NTA2_SciComm-200x244.png 200w, /wp-content/uploads/NTA2_SciComm-246x300.png 246w, /wp-content/uploads/NTA2_SciComm-400x488.png 400w, /wp-content/uploads/NTA2_SciComm.png 596w" sizes="(max-width: 596px) 100vw, 596px" /></span></p>
 <p><span style="font-weight: 400;">Figure 1. Thirza Stam, Science Communicator at Naturalis Biodiversity Center, provided an engaging training on how to use social media and write concise short stories about your research. </span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">ESR2, Elsa B. Girard, wrote the following summary about NTA2:</span></p>
 <p><b>To keep the conversation going…</b></p>
 <p><span style="font-weight: 400;">First reactions of the 4D-REEF consortium when we heard that NTA2 would be online for a second time: “Really!?”, “Can’t we postpone it instead?”, “Not again&#8230;”. Such reactions are understandable, as it means hours of virtual interactions, and especially because the consortium has not yet had the chance to meet in person since the ESRs have been appointed. </span></p>
 <p><span style="font-weight: 400;">Once NTA2 was settled, a positive wave hit the consortium and we definitely looked forward to “getting together” again. During three half-days, we discussed the advancement of each ESR’s project and the preparation for future fieldwork. We also had the pleasure to hear about the Indonesian socio-economic perspectives surrounding coral reef management by a distinguished panel with Indonesian managers and scientists:</span></p>
-<p><img decoding="async" class="alignnone size-full wp-image-3332" src="/4D-REEF/wp-content/uploads/NTA2_panel.png" alt="" width="679" height="336" srcset="/4D-REEF/wp-content/uploads/NTA2_panel-200x99.png 200w, /4D-REEF/wp-content/uploads/NTA2_panel-300x148.png 300w, /4D-REEF/wp-content/uploads/NTA2_panel-400x198.png 400w, /4D-REEF/wp-content/uploads/NTA2_panel-600x297.png 600w, /4D-REEF/wp-content/uploads/NTA2_panel.png 679w" sizes="(max-width: 679px) 100vw, 679px" /></p>
+<p><img decoding="async" class="alignnone size-full wp-image-3332" src="/wp-content/uploads/NTA2_panel.png" alt="" width="679" height="336" srcset="/wp-content/uploads/NTA2_panel-200x99.png 200w, /wp-content/uploads/NTA2_panel-300x148.png 300w, /wp-content/uploads/NTA2_panel-400x198.png 400w, /wp-content/uploads/NTA2_panel-600x297.png 600w, /wp-content/uploads/NTA2_panel.png 679w" sizes="(max-width: 679px) 100vw, 679px" /></p>
 <p><span style="font-weight: 400;">This NTA was a success at all levels! Not only collaborations between ESRs and between different institutions are flourishing, but we also feel more and more connected to one another. </span></p>
 <p>&nbsp;</p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
 	<p>MSc in Geobiology and Paleobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 
@@ -204,23 +204,23 @@ Figure 2. Monthly mean sea surface temperature in °Celsius in the Spermonde Arc
 			</item>
 		<item>
 		<title>Foram DNA to predict coral reef health</title>
-		<link>/4D-REEF/elsa-foram-animation/</link>
+		<link>/elsa-foram-animation/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Mon, 03 Aug 2020 15:18:03 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Elsa Girard]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3319</guid>
+		<guid isPermaLink="false">/?p=3319</guid>
 
 					<description><![CDATA[Elsa B. Girard is based at Naturalis Biodiversity Center in the Netherlands, and her research is focused on the temporal biodiversity of large benthic foraminifera (LBF) assemblages. Watch this movie to learn more about her research:  ]]></description>
 										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Elsa B. Girard is based at Naturalis Biodiversity Center in the Netherlands, and her research is focused on the temporal biodiversity of large benthic foraminifera (LBF) assemblages. Watch this movie to learn more about her research:</span></p>
-<p><a href="https://www.youtube.com/watch?v=j53j_rD_z4I"><img decoding="async" class="alignnone size-full wp-image-3327" src="/4D-REEF/wp-content/uploads/Elsa_YouTube.png" alt="" width="1229" height="863" srcset="/4D-REEF/wp-content/uploads/Elsa_YouTube-200x140.png 200w, /4D-REEF/wp-content/uploads/Elsa_YouTube-300x211.png 300w, /4D-REEF/wp-content/uploads/Elsa_YouTube-400x281.png 400w, /4D-REEF/wp-content/uploads/Elsa_YouTube-600x421.png 600w, /4D-REEF/wp-content/uploads/Elsa_YouTube-768x539.png 768w, /4D-REEF/wp-content/uploads/Elsa_YouTube-800x562.png 800w, /4D-REEF/wp-content/uploads/Elsa_YouTube-1024x719.png 1024w, /4D-REEF/wp-content/uploads/Elsa_YouTube-1200x843.png 1200w, /4D-REEF/wp-content/uploads/Elsa_YouTube.png 1229w" sizes="(max-width: 1229px) 100vw, 1229px" /></a></p>
+<p><a href="https://www.youtube.com/watch?v=j53j_rD_z4I"><img decoding="async" class="alignnone size-full wp-image-3327" src="/wp-content/uploads/Elsa_YouTube.png" alt="" width="1229" height="863" srcset="/wp-content/uploads/Elsa_YouTube-200x140.png 200w, /wp-content/uploads/Elsa_YouTube-300x211.png 300w, /wp-content/uploads/Elsa_YouTube-400x281.png 400w, /wp-content/uploads/Elsa_YouTube-600x421.png 600w, /wp-content/uploads/Elsa_YouTube-768x539.png 768w, /wp-content/uploads/Elsa_YouTube-800x562.png 800w, /wp-content/uploads/Elsa_YouTube-1024x719.png 1024w, /wp-content/uploads/Elsa_YouTube-1200x843.png 1200w, /wp-content/uploads/Elsa_YouTube.png 1229w" sizes="(max-width: 1229px) 100vw, 1229px" /></a></p>
 <p>&nbsp;</p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
 	<p>MSc in Geobiology and Paleobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 

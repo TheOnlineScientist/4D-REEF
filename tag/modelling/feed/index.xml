@@ -9,8 +9,8 @@
 
 <channel>
 	<title>modelling &#8211; 4D-REEF</title>
-	<atom:link href="/4D-REEF/tag/modelling/feed/" rel="self" type="application/rss+xml" />
-	<link>/4D-REEF/</link>
+	<atom:link href="/tag/modelling/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
 	<lastBuildDate>Wed, 18 Oct 2023 12:11:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>What was the climate and ocean circulation of the Maritime Continent during a warmer period in the past?</title>
-		<link>/4D-REEF/climate-during-warmer-past/</link>
+		<link>/climate-during-warmer-past/</link>
 		
 		<dc:creator><![CDATA[Chantal Cornelissen]]></dc:creator>
 		<pubDate>Fri, 13 Oct 2023 16:26:01 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[paper]]></category>
 		<category><![CDATA[research]]></category>
 		<category><![CDATA[Xin Ren]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3991</guid>
+		<guid isPermaLink="false">/?p=3991</guid>
 
 					<description><![CDATA[Blog by 4D-Reef ESR Xin Ren, based at University of Bristol. Figure 1 (at top of the page). PRISM4 Pliocene land-sea mask. The modern continental outline is indicated with black lines; blue and green shadings indicate ocean and land in the mPWP experiment. The red rectangle indicates the location of the Timor passage of the]]></description>
 										<content:encoded><![CDATA[<p><em>Blog by 4D-Reef ESR Xin Ren, based at University of Bristol.</em></p>
@@ -46,12 +46,12 @@
 <p>The Maritime Continent (MC) forms the western boundary of the tropical Pacific Ocean. The Indonesian Throughflow (ITF) via the Maritime Continent is a key component of global ocean circulation. The ITF links the Pacific Ocean and the Indian Ocean by transporting warm and comparably fresh water from the Pacific Ocean into the Indian Ocean. Dramatic tectonic processes and sea level changes shaped this gateway that plays an important role in influencing local climate and that of other regions of the world. In the mid-Piacenzian warm period of the Pliocene (mPWP; 3.264 to 3.025 million years ago) atmospheric CO<sub>2</sub> concentrations were ~400 ppm, and the subaerial Sunda and Sahul shelves made the land-sea distribution of the MC different to today (Fig 1- top of the page). Topographic changes and elevated levels of CO2, combined with other forcings, are therefore expected to have driven a substantial climate signal in the MC region at this time.</p>
 <p>By using the results from the Pliocene Model Intercomparison Project phase 2 (PlioMIP2), we study the mean climatic features of the MC in the mPWP and changes in ITF with respect to preindustrial. In this study we adopt the E280 simulation as a control experiment, which is forced with preindustrial conditions, and the Eoi400 simulation as a sensitivity experiment for mPWP conditions, which is forced with all mPWP boundary conditions; these are topography, ice sheets, soil, vegetation, lakes, land-sea mask and a concentration of 400 ppm of CO<sub>2</sub> in the atmosphere. The boundary conditions for the PlioMIP2 experimental design can be downloaded from <a href="https://geology.er.usgs.gov/egpsc/prism/7.2_pliomip2_data.html">https://geology.er.usgs.gov/egpsc/prism/7.2_pliomip2_data.html</a>.</p>
 <p>As shown in Fig 2, in line with the global climate, all the 17 PlioMIP2 models show higher SSTs in the mPWP MC, ranging from +0.43°C to +3.33°C, with a MMM warming by 1.88°C; 13 out of 17 models show fresh water flux increased in the MC, the anomaly ranging from +0.04 mm/day to +0.50 mm/day. In terms of atmospheric circulation, the easterlies over the western tropical Pacific Ocean show enhanced intensity in the MMM; there is anomalous eastward wind stress over the ocean near Western Australia. Seawater salinity affects the thermohaline circulation; 14 out of 16 models (model MRI-CGCM2.3 is absent here) show a lower SOS in the MC.</p>
-<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3994" src="/4D-REEF/wp-content/uploads/f02.png" alt="" width="1825" height="1027" srcset="/4D-REEF/wp-content/uploads/f02-200x113.png 200w, /4D-REEF/wp-content/uploads/f02-300x169.png 300w, /4D-REEF/wp-content/uploads/f02-400x225.png 400w, /4D-REEF/wp-content/uploads/f02-600x338.png 600w, /4D-REEF/wp-content/uploads/f02-768x432.png 768w, /4D-REEF/wp-content/uploads/f02-800x450.png 800w, /4D-REEF/wp-content/uploads/f02-1024x576.png 1024w, /4D-REEF/wp-content/uploads/f02-1200x675.png 1200w, /4D-REEF/wp-content/uploads/f02-1536x864.png 1536w, /4D-REEF/wp-content/uploads/f02.png 1825w" sizes="(max-width: 1825px) 100vw, 1825px" /></p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3994" src="/wp-content/uploads/f02.png" alt="" width="1825" height="1027" srcset="/wp-content/uploads/f02-200x113.png 200w, /wp-content/uploads/f02-300x169.png 300w, /wp-content/uploads/f02-400x225.png 400w, /wp-content/uploads/f02-600x338.png 600w, /wp-content/uploads/f02-768x432.png 768w, /wp-content/uploads/f02-800x450.png 800w, /wp-content/uploads/f02-1024x576.png 1024w, /wp-content/uploads/f02-1200x675.png 1200w, /wp-content/uploads/f02-1536x864.png 1536w, /wp-content/uploads/f02.png 1825w" sizes="(max-width: 1825px) 100vw, 1825px" /></p>
 <p><em>Figure 2. The MMM anomalies over the MC in the mPWP simulation relative to the preindustrial simulation for (a) sea surface temperature (SST), (b) precipitation minus evaporation (P-E), (c) zonal surface wind stress (TAUU) and (d) salinity at the ocean surface (SOS). In (a), circles mark the location of the SSTA proxies. Their colour represents the reconstructed SSTAs, the name of each site is indicated on the top of each circle. In (a) and (d), white shading indicates the grid boxes that are land for all the models, grid boxes outside the black lines are ocean grid boxes for all the models. In (b) and (c), hatches indicate land grid boxes in the mPWP experiment; the black lines indicate the continental outlines of the preindustrial experiment. In (b), filled circles denote proxy data in terms of wetter, or no-change condition. Details of each numbered site are shown in Table S2 in the supplement of the original paper. In (c), green shading indicates westward anomaly and purple shading indicates eastward anomaly. Stippled areas show significant multi-model differences according to a t-test at the 90% confidence level.</em></p>
 <p>&nbsp;</p>
 <p>Temperature and density differences are factors that can contribute to changes in the ITF, which is an important process for regulating the climate of the MC. Therefore, we quantify and investigate the changes of oceanic flow through the MC in the mPWP. Even though the topography of the MC in the mPWP acts as a barrier for volume transport between the Pacific Ocean and the Indian Ocean compared to the preindustrial, 10 out of 15 models show the ITF intensity increasing by 5.6% to 43.8%. CESM2, IPSL-CM6A-LR, COSMOS, MIROCm4 and HadGEM3 show a decrease in intensity of the ITF, the amplitude of westward flow is here lowered by 3.4% to 39.4% (Fig 3b).</p>
 <p>The spatial pattern of the vertical integrated zonal seawater volume transport anomaly is shown in Fig. 3a. There is a westward transport anomaly along the northeastern coast of the New Guinea, which favours the ocean mass transport of the ITF. For the oceanic transport through the gateway, the westward water transport via Timor passage has been strengthened over the north, but weakened over the south in the mPWP compared to the preindustrial. Moreover, the water mass is mainly transported through the ITF in the ocean above 1000 meters depth in both the preindustrial and the mPWP. The changes in the volume transport of ITF also mainly occur in the ocean above 1000 meters depth.</p>
-<p><img decoding="async" class="aligncenter size-full wp-image-3995" src="/4D-REEF/wp-content/uploads/f03.png" alt="" width="965" height="1090" srcset="/4D-REEF/wp-content/uploads/f03-200x226.png 200w, /4D-REEF/wp-content/uploads/f03-266x300.png 266w, /4D-REEF/wp-content/uploads/f03-400x452.png 400w, /4D-REEF/wp-content/uploads/f03-600x678.png 600w, /4D-REEF/wp-content/uploads/f03-768x867.png 768w, /4D-REEF/wp-content/uploads/f03-800x904.png 800w, /4D-REEF/wp-content/uploads/f03-907x1024.png 907w, /4D-REEF/wp-content/uploads/f03.png 965w" sizes="(max-width: 965px) 100vw, 965px" /></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3995" src="/wp-content/uploads/f03.png" alt="" width="965" height="1090" srcset="/wp-content/uploads/f03-200x226.png 200w, /wp-content/uploads/f03-266x300.png 266w, /wp-content/uploads/f03-400x452.png 400w, /wp-content/uploads/f03-600x678.png 600w, /wp-content/uploads/f03-768x867.png 768w, /wp-content/uploads/f03-800x904.png 800w, /wp-content/uploads/f03-907x1024.png 907w, /wp-content/uploads/f03.png 965w" sizes="(max-width: 965px) 100vw, 965px" /></p>
 <p><em>Figure 3. (a) The MMM zonal seawater volume transport anomaly in the mPWP experiment relative to the preindustrial experiment. Blue shading indicates westward anomaly and brown shading indicates eastward anomaly. The red line is the transect to calculate the ocean volume transport intensity in (b). The hatches indicate land grid boxes in the mid-Pliocene experiment; the black lines indicate the continental outlines of the preindustrial experiment. (b) The integrated ocean volume transport intensity through the gateway. Negative values indicate westward transport. Stippled areas show significant multi-model differences according to a t-test at the 90% confidence level.</em></p>
 <p>&nbsp;</p>
 <p><em>References</em>:<br />
@@ -62,8 +62,8 @@ Markwick, P. J., 2007: The palaeogeographic and palaeoclimatic significance of c
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Xin-Ren-4D-REEF-early-stage-researcher-1-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2747"><span class="esr-link">Xin Ren</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Xin-Ren-4D-REEF-early-stage-researcher-1-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2747"><span class="esr-link">Xin Ren</span></a> </h3> 
 	<p>MSc in Quaternary Geology</p>
 	<p>University of Bristol, UK</p></div>
 

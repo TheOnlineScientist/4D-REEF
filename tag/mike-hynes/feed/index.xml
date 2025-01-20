@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mike Hynes &#8211; 4D-REEF</title>
-	<atom:link href="/4D-REEF/tag/mike-hynes/feed/" rel="self" type="application/rss+xml" />
-	<link>/4D-REEF/</link>
+	<atom:link href="/tag/mike-hynes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
 	<lastBuildDate>Mon, 18 Jan 2021 10:10:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,36 +21,36 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Lab work: an ideal reason to flee the home office</title>
-		<link>/4D-REEF/elsa-mike-labwork/</link>
+		<link>/elsa-mike-labwork/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Thu, 12 Nov 2020 12:30:59 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Elsa Girard]]></category>
 		<category><![CDATA[Mike Hynes]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3386</guid>
+		<guid isPermaLink="false">/?p=3386</guid>
 
 					<description><![CDATA[By Elsa B. Girard and Mike Hynes (ESRs at Naturalis Biodiversity Center) Since September, Elsa and Mike left home on a part-time basis to do lab work at Naturalis Biodiversity Center. Not only do they get to learn new techniques and supervise, but it is also their chance to flee home for once in a]]></description>
 										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">By Elsa B. Girard and Mike Hynes (ESRs at Naturalis Biodiversity Center)</span></i></p>
 <p><span style="font-weight: 400;">Since September, Elsa and Mike left home on a part-time basis to do lab work at Naturalis Biodiversity Center. Not only do they get to learn new techniques and supervise, but it is also their chance to flee home for once in a while during COVID-19 restrictions. </span></p>
 <p><span style="font-weight: 400;">Anouk, a bachelor student working with Elsa on building a foram DNA reference database, has been working at least three days a week in the lab (Figure 1). Elsa and Anouk are taking up the challenge of foram DNA amplification, which is not a small task filled with many hiccups. With a goal to sequence DNA from 20 large benthic foraminifera species, they so far reached 4 good species amplifications out of 5. Anouk will work on a new round of species next week with, hopefully, some more successful results!</span></p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-3402" src="/4D-REEF/wp-content/uploads/Elsa_Labwork.png" alt="" width="849" height="656" srcset="/4D-REEF/wp-content/uploads/Elsa_Labwork-200x154.png 200w, /4D-REEF/wp-content/uploads/Elsa_Labwork-300x232.png 300w, /4D-REEF/wp-content/uploads/Elsa_Labwork-400x309.png 400w, /4D-REEF/wp-content/uploads/Elsa_Labwork-600x463.png 600w, /4D-REEF/wp-content/uploads/Elsa_Labwork-768x593.png 768w, /4D-REEF/wp-content/uploads/Elsa_Labwork-800x618.png 800w, /4D-REEF/wp-content/uploads/Elsa_Labwork-1024x791.png 1024w, /4D-REEF/wp-content/uploads/Elsa_Labwork-1200x927.png 1200w, /4D-REEF/wp-content/uploads/Elsa_Labwork-1536x1186.png 1536w, /4D-REEF/wp-content/uploads/Elsa_Labwork.png 2465w" sizes="(max-width: 849px) 100vw, 849px" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-3402" src="/wp-content/uploads/Elsa_Labwork.png" alt="" width="849" height="656" srcset="/wp-content/uploads/Elsa_Labwork-200x154.png 200w, /wp-content/uploads/Elsa_Labwork-300x232.png 300w, /wp-content/uploads/Elsa_Labwork-400x309.png 400w, /wp-content/uploads/Elsa_Labwork-600x463.png 600w, /wp-content/uploads/Elsa_Labwork-768x593.png 768w, /wp-content/uploads/Elsa_Labwork-800x618.png 800w, /wp-content/uploads/Elsa_Labwork-1024x791.png 1024w, /wp-content/uploads/Elsa_Labwork-1200x927.png 1200w, /wp-content/uploads/Elsa_Labwork-1536x1186.png 1536w, /wp-content/uploads/Elsa_Labwork.png 2465w" sizes="(max-width: 849px) 100vw, 849px" /></p>
 <p><span style="font-weight: 400;">Figure 1. Workflow of Elsa and Anouk in the lab.</span></p>
 <p><span style="font-weight: 400;">In the lab next door, Mike has been analyzing previously collected sediments from Indonesia for sponge spicules (spicules are sort of like skeletons for a sponge). This is a preliminary trial to see what we can learn about Indonesian sponges using techniques Mike has previously used on Caribbean sediments. Figure 2 shows that there are a few steps required to isolate sponge spicules. We add acetic acid and hydrogen peroxide to remove the majority of the unwanted materials, leaving mostly just silica based sponge spicules behind. With these spicules we can hopefully determine what the most common sponges are in this area, and possibly be able to compare these to reefs from the past!</span></p>
-<p><img decoding="async" class="alignnone wp-image-3400" src="/4D-REEF/wp-content/uploads/Mike_Labwork-1.png" alt="" width="934" height="790" srcset="/4D-REEF/wp-content/uploads/Mike_Labwork-1-200x169.png 200w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-300x254.png 300w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-400x338.png 400w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-600x507.png 600w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-768x649.png 768w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-800x676.png 800w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-1024x866.png 1024w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-1200x1014.png 1200w, /4D-REEF/wp-content/uploads/Mike_Labwork-1-1536x1298.png 1536w, /4D-REEF/wp-content/uploads/Mike_Labwork-1.png 2845w" sizes="(max-width: 934px) 100vw, 934px" /></p>
+<p><img decoding="async" class="alignnone wp-image-3400" src="/wp-content/uploads/Mike_Labwork-1.png" alt="" width="934" height="790" srcset="/wp-content/uploads/Mike_Labwork-1-200x169.png 200w, /wp-content/uploads/Mike_Labwork-1-300x254.png 300w, /wp-content/uploads/Mike_Labwork-1-400x338.png 400w, /wp-content/uploads/Mike_Labwork-1-600x507.png 600w, /wp-content/uploads/Mike_Labwork-1-768x649.png 768w, /wp-content/uploads/Mike_Labwork-1-800x676.png 800w, /wp-content/uploads/Mike_Labwork-1-1024x866.png 1024w, /wp-content/uploads/Mike_Labwork-1-1200x1014.png 1200w, /wp-content/uploads/Mike_Labwork-1-1536x1298.png 1536w, /wp-content/uploads/Mike_Labwork-1.png 2845w" sizes="(max-width: 934px) 100vw, 934px" /></p>
 <p><span style="font-weight: 400;">Figure 2. Mike isolating sponge spicules from Indonesian sediments.</span></p>
 <p><span style="font-weight: 400;">William, the third 4D-REEF ESR at Naturalis, will have duty in the collection lab very soon too, so watch out for his blog post in the coming months!</span></p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
 	<p>MSc in Geobiology and Paleobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Mike-Hynes-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2741"><span class="esr-link">Mike Hynes</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Mike-Hynes-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2741"><span class="esr-link">Mike Hynes</span></a> </h3> 
 	<p>MSc in Palaeobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 

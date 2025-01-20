@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Jan-Christopher Fisher &#8211; 4D-REEF</title>
-	<atom:link href="/4D-REEF/tag/jan-christopher-fisher/feed/" rel="self" type="application/rss+xml" />
-	<link>/4D-REEF/</link>
+	<atom:link href="/tag/jan-christopher-fisher/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
 	<lastBuildDate>Thu, 22 Apr 2021 09:01:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +21,14 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Looking at coral reefs’ environmental parameters from space</title>
-		<link>/4D-REEF/looking-at-coral-reefs-environmental-parameters-from-space/</link>
+		<link>/looking-at-coral-reefs-environmental-parameters-from-space/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Wed, 21 Apr 2021 13:38:40 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Elsa Girard]]></category>
 		<category><![CDATA[Jan-Christopher Fisher]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3462</guid>
+		<guid isPermaLink="false">/?p=3462</guid>
 
 					<description><![CDATA[By JC Fischer &amp; Elsa B. Girard (ESRs at University of Bristol and Naturalis Biodiversity Center) Environmental conditions can provide essential information for any ecological analysis of coral reefs. To improve our understanding on temporal trends of reef communities, we attempt to link two main components: the organism itself with its environment. Taking into account]]></description>
 										<content:encoded><![CDATA[<p><em>By JC Fischer &amp; Elsa B. Girard (ESRs at University of Bristol and Naturalis Biodiversity Center)</em></p>
@@ -68,24 +68,24 @@ Both Landsat and MODIS (Moderate Resolution Imaging Spectroradiometer) satellite
 <p>&nbsp;</p>
 <p><b>Blue skies, better images</b><br />
 Elsa is interested in the seasonal variation of Spermonde’s turbidity. Therefore, Landsat poses a problem because only two images are taken each month (see Figure 1). Although the quality of the images is very good during the dry season (sunny and clear sky), we cannot say the same about the wet and rainy season when the clouds take over the area. It would be ideal to find a satellite that has a high resolution like Landsat, but covers the area more frequently. Fortunately, such satellites exist (e.g., Sentinel), but these have been orbiting the Earth for only a few years. This is why the long-term records from Landsat are still highly valuable!</p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-3468" src="/4D-REEF/wp-content/uploads/TurbiditychangeANDrainANDtime-2013-2021.gif" alt="" width="549" height="478" /><br />
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-3468" src="/wp-content/uploads/TurbiditychangeANDrainANDtime-2013-2021.gif" alt="" width="549" height="478" /><br />
 Figure 1. Presentation of the coastal turbidity gradient in the Spermonde Archipelago (South Sulawesi, Indonesia) from 2013 to 2021 using Landsat 8 Aquatic Reflectance data product. Top: Points in time when satellite images were taken. Bottom left: Derived turbidity from satellite images. Black shows land and clouds; white to red scale shows the turbidity gradient. Bottom right: Rainfall (mm) of the 7 days before the satellite image was taken.</p>
 <p><strong>Water temperatures over time</strong><br />
 The optical ocean water parameters provided by MODIS can serve as references to contemporary habitat conditions over the past two decades. As an example, variations in monthly sea surface temperature in the Spermonde Archipelago are displayed in Figure 2. While the short revisit time enables detection of dynamic changes in large-scale oceanographic patterns, like e.g., the Indian-Ocean-Dipole temperature oscillations, fine-scale features can not be captured due to the relatively coarse spatial resolution.</p>
-<p><img decoding="async" class="alignnone wp-image-3476" src="/4D-REEF/wp-content/uploads/SST_mean_05sec.gif" alt="" width="592" height="592" /><br />
+<p><img decoding="async" class="alignnone wp-image-3476" src="/wp-content/uploads/SST_mean_05sec.gif" alt="" width="592" height="592" /><br />
 Figure 2. Monthly mean sea surface temperature in °Celsius in the Spermonde Archipelago extracted from MODIS Aqua imagery data from July 2002 until December 2020. Terrestrial surfaces are shown in grey, the islands of the archipelago are displayed in red and a 50km-buffer zone around the islands is outlined in black.</p>
 <p>Nevertheless, both different sensors have their specific advantages enabling us to reconstruct local environmental conditions. By using those resources we hope to contribute towards an improved understanding of benthic community dynamics over time!</p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Elsa-Girard-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2719"><span class="esr-link">Elsa B. Girard</span></a> </h3> 
 	<p>MSc in Geobiology and Paleobiology</p>
 	<p>Naturalis Biodiversity Center, Netherlands</p></div>
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Jan-Christopher-Fisher-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2731"><span class="esr-link">Jan-Christopher Fischer</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Jan-Christopher-Fisher-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2731"><span class="esr-link">Jan-Christopher Fischer</span></a> </h3> 
 	<p>MSc in Global Change Ecology</p>
 	<p>University of Bristol, UK</p></div>
 

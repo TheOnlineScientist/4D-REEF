@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tamara Stuij &#8211; 4D-REEF</title>
-	<atom:link href="/4D-REEF/tag/tamara-stuij/feed/" rel="self" type="application/rss+xml" />
-	<link>/4D-REEF/</link>
+	<atom:link href="/tag/tamara-stuij/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Past, present, and future of  coral reefs in the Coral Triangle</description>
 	<lastBuildDate>Mon, 23 Aug 2021 13:36:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Microcosms in action &#8211; blog #2 of Tamara</title>
-		<link>/4D-REEF/blog-2-microcosms-in-action/</link>
+		<link>/blog-2-microcosms-in-action/</link>
 		
 		<dc:creator><![CDATA[Caroline van Impelen]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 08:15:17 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Tamara Stuij]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3519</guid>
+		<guid isPermaLink="false">/?p=3519</guid>
 
 					<description><![CDATA[Blog by Tamara Stuij, PhD-student of 4D-REEF at the University of Aveiro, Portugal. As the whole experimental part of the work is all set and done by now, I look back at the first blog I wrote about the microcosms with a little melancholy. It was a great experience to get the system running and]]></description>
 										<content:encoded><![CDATA[<p>Blog by Tamara Stuij, PhD-student of 4D-REEF at the University of Aveiro, Portugal.</p>
@@ -35,7 +35,7 @@
 <p><strong>The start</strong></p>
 <p>As mentioned in the previous blog, the plan was to spike life coral reef sediment with sterilized carbonate sand to obtain a coral reef sediment microbial community. In practice, this meant that as soon as we received the freshly collected sediment from a coral reef in the Indo-Pacific (Many thanks to Prof. Yusheng Huang, our dear collaborator from Taiwan), it was time to start the experiment. As planned, we mixed the sediment with sterilized sand and added it to our systems. After addition of the sediment, the microcosms were filled with either clear artificial seawater, or seawater enriched with <strong>humic substances</strong>. Terrestrial derived humic substances are a form of coloured dissolved organic matter that is brought into coastal marine systems by land and river runoff. These substances can be a large reservoir of the organic carbon and nitrogen in coastal tropical reefs and by their yellow-brown colour, they can change the light spectrum and intensity in the water column. In our experiment, <strong>we </strong><strong>hypothesize</strong><strong>d that humic substances can mitigate the impact of elevated temperatures and </strong><strong>ultraviolet radiation </strong><strong>(UVR) on coral reef sediment prokaryotic communities, leading to possible increased reef resilience</strong><strong>.<br />
 </strong><br />
-<img fetchpriority="high" decoding="async" class=" wp-image-3522 aligncenter" src="/4D-REEF/wp-content/uploads/blog2_fig1-230x300.png" alt="" width="344" height="449" srcset="/4D-REEF/wp-content/uploads/blog2_fig1-200x261.png 200w, /4D-REEF/wp-content/uploads/blog2_fig1-230x300.png 230w, /4D-REEF/wp-content/uploads/blog2_fig1-400x523.png 400w, /4D-REEF/wp-content/uploads/blog2_fig1-600x784.png 600w, /4D-REEF/wp-content/uploads/blog2_fig1-768x1003.png 768w, /4D-REEF/wp-content/uploads/blog2_fig1-784x1024.png 784w, /4D-REEF/wp-content/uploads/blog2_fig1-800x1045.png 800w, /4D-REEF/wp-content/uploads/blog2_fig1-1176x1536.png 1176w, /4D-REEF/wp-content/uploads/blog2_fig1-1200x1568.png 1200w, /4D-REEF/wp-content/uploads/blog2_fig1-1568x2048.png 1568w, /4D-REEF/wp-content/uploads/blog2_fig1.png 1655w" sizes="(max-width: 344px) 100vw, 344px" /></p>
+<img fetchpriority="high" decoding="async" class=" wp-image-3522 aligncenter" src="/wp-content/uploads/blog2_fig1-230x300.png" alt="" width="344" height="449" srcset="/wp-content/uploads/blog2_fig1-200x261.png 200w, /wp-content/uploads/blog2_fig1-230x300.png 230w, /wp-content/uploads/blog2_fig1-400x523.png 400w, /wp-content/uploads/blog2_fig1-600x784.png 600w, /wp-content/uploads/blog2_fig1-768x1003.png 768w, /wp-content/uploads/blog2_fig1-784x1024.png 784w, /wp-content/uploads/blog2_fig1-800x1045.png 800w, /wp-content/uploads/blog2_fig1-1176x1536.png 1176w, /wp-content/uploads/blog2_fig1-1200x1568.png 1200w, /wp-content/uploads/blog2_fig1-1568x2048.png 1568w, /wp-content/uploads/blog2_fig1.png 1655w" sizes="(max-width: 344px) 100vw, 344px" /></p>
 <p style="text-align: center;"><em>Figure 1 Upper picture:  Microcosms right after we added the sediment and water. Lower picture: Daily water renewal to the systems.</em></p>
 <p>&nbsp;</p>
 <p><strong>Acclimatization phase</strong></p>
@@ -44,17 +44,17 @@
 <p>Just when the species adapted to their new tiny environment, it was time to impose our temperature and light treatments.</p>
 <p>To keep the microcosms at ~28ºC, each four microcosms were surrounded by temperature controlled water baths. For our treatment with higher temperature, half of the water baths were gradually heated up to 32ºC.</p>
 <p>To mimic reef light conditions, fluorescent lamps which covered a broad light spectrum were turned on for 12 hours a day, with a gradual increase in intensity at the beginning and end of a day. Additional, in the middle of the day, special UV lights were turned on for four hours to mimick the UV radiation given by sunlight. To assess the effect of UVB light, we exposed part of the microcosms to the UV radiation, whereas filters that specifically filtered out the UVB wavelengths were placed on top of the control aquaria.  In total, we set up 8 different treatments over 32 aquaria to investigate the individual and interactive effects of humic substances and reef stressors.</p>
-<p><img decoding="async" class=" wp-image-3524 aligncenter" src="/4D-REEF/wp-content/uploads/blog2_fig2-300x275.png" alt="" width="479" height="439" srcset="/4D-REEF/wp-content/uploads/blog2_fig2-200x183.png 200w, /4D-REEF/wp-content/uploads/blog2_fig2-300x275.png 300w, /4D-REEF/wp-content/uploads/blog2_fig2-400x367.png 400w, /4D-REEF/wp-content/uploads/blog2_fig2-600x550.png 600w, /4D-REEF/wp-content/uploads/blog2_fig2-768x704.png 768w, /4D-REEF/wp-content/uploads/blog2_fig2-800x733.png 800w, /4D-REEF/wp-content/uploads/blog2_fig2-1024x938.png 1024w, /4D-REEF/wp-content/uploads/blog2_fig2-1200x1100.png 1200w, /4D-REEF/wp-content/uploads/blog2_fig2-1536x1408.png 1536w" sizes="(max-width: 479px) 100vw, 479px" /></p>
+<p><img decoding="async" class=" wp-image-3524 aligncenter" src="/wp-content/uploads/blog2_fig2-300x275.png" alt="" width="479" height="439" srcset="/wp-content/uploads/blog2_fig2-200x183.png 200w, /wp-content/uploads/blog2_fig2-300x275.png 300w, /wp-content/uploads/blog2_fig2-400x367.png 400w, /wp-content/uploads/blog2_fig2-600x550.png 600w, /wp-content/uploads/blog2_fig2-768x704.png 768w, /wp-content/uploads/blog2_fig2-800x733.png 800w, /wp-content/uploads/blog2_fig2-1024x938.png 1024w, /wp-content/uploads/blog2_fig2-1200x1100.png 1200w, /wp-content/uploads/blog2_fig2-1536x1408.png 1536w" sizes="(max-width: 479px) 100vw, 479px" /></p>
 <p style="text-align: center;"><em>Figure 2 Upper figure: graphical representation of the eight different treatments of the experiment. Lower figure: picture of the system during the experimental phase.</em></p>
 <p><strong>Measuring, monitoring and sampling</strong></p>
 <p>During the experiment, we were constantly monitoring and measuring water quality parameters like the temperature, salinity, pH, dissolved oxygen concentration and nutrients. To look at the bacterial communities in the system, we sampled the sediment and water at different timepoints and at the end of the experiment. The corals and sponge were all sampled for bacterial community analysis at the end of the experiment. As you can see, I was a little bit tired at some point. Luckily, I had some great help at the day of sampling! At the moment the samples collected are being processed, and when finished, we can analyze the data and get insights into the effects of our treatments on the bacterial communities.</p>
-<p><img decoding="async" class=" wp-image-3525 aligncenter" src="/4D-REEF/wp-content/uploads/blog2_fig3-221x300.png" alt="" width="405" height="550" srcset="/4D-REEF/wp-content/uploads/blog2_fig3-200x271.png 200w, /4D-REEF/wp-content/uploads/blog2_fig3-221x300.png 221w, /4D-REEF/wp-content/uploads/blog2_fig3-400x543.png 400w, /4D-REEF/wp-content/uploads/blog2_fig3-600x814.png 600w, /4D-REEF/wp-content/uploads/blog2_fig3-755x1024.png 755w, /4D-REEF/wp-content/uploads/blog2_fig3-768x1042.png 768w, /4D-REEF/wp-content/uploads/blog2_fig3-800x1085.png 800w, /4D-REEF/wp-content/uploads/blog2_fig3-1132x1536.png 1132w, /4D-REEF/wp-content/uploads/blog2_fig3-1200x1628.png 1200w, /4D-REEF/wp-content/uploads/blog2_fig3-1510x2048.png 1510w, /4D-REEF/wp-content/uploads/blog2_fig3.png 1549w" sizes="(max-width: 405px) 100vw, 405px" /></p>
+<p><img decoding="async" class=" wp-image-3525 aligncenter" src="/wp-content/uploads/blog2_fig3-221x300.png" alt="" width="405" height="550" srcset="/wp-content/uploads/blog2_fig3-200x271.png 200w, /wp-content/uploads/blog2_fig3-221x300.png 221w, /wp-content/uploads/blog2_fig3-400x543.png 400w, /wp-content/uploads/blog2_fig3-600x814.png 600w, /wp-content/uploads/blog2_fig3-755x1024.png 755w, /wp-content/uploads/blog2_fig3-768x1042.png 768w, /wp-content/uploads/blog2_fig3-800x1085.png 800w, /wp-content/uploads/blog2_fig3-1132x1536.png 1132w, /wp-content/uploads/blog2_fig3-1200x1628.png 1200w, /wp-content/uploads/blog2_fig3-1510x2048.png 1510w, /wp-content/uploads/blog2_fig3.png 1549w" sizes="(max-width: 405px) 100vw, 405px" /></p>
 <p><em>Figure 3 Upper picture: Me, measuring salinity levels at eight in the morning. Lower pictures: The sampling team: Davide Silva, Antonio Louvado, Rita Polonia, Vanessa Oliveira and me in the back.</em></p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Tamara-Stuij-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2478"><span class="esr-link">Tamara Stuij</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Tamara-Stuij-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2478"><span class="esr-link">Tamara Stuij</span></a> </h3> 
 	<p>MSc in Marine Sciences</p>
 	<p>University of Aveiro, Portugal</p></div>
 
@@ -65,35 +65,35 @@
 			</item>
 		<item>
 		<title>Microcosms – how I became an aquarist</title>
-		<link>/4D-REEF/tamara-microcosms/</link>
+		<link>/tamara-microcosms/</link>
 		
 		<dc:creator><![CDATA[Chantal Huijbers]]></dc:creator>
 		<pubDate>Mon, 18 Jan 2021 09:03:31 +0000</pubDate>
 				<category><![CDATA[ESR blog]]></category>
 		<category><![CDATA[Tamara Stuij]]></category>
-		<guid isPermaLink="false">/4D-REEF/?p=3408</guid>
+		<guid isPermaLink="false">/?p=3408</guid>
 
 					<description><![CDATA[By Tamara Stuij (ESR at the University of Aveiro, Portugal) For my project I am setting up a multifactorial microcosm experiment to explore the dynamic nature of coral reef bacterial communities. In this blog post I would like to show you some aspects of how such an experimental set up is built and works! Miniature]]></description>
 										<content:encoded><![CDATA[<p><i><span style="font-weight: 400;">By Tamara Stuij (ESR at the University of Aveiro, Portugal)</span></i></p>
 <p><span style="font-weight: 400;">For my project I am setting up a multifactorial microcosm experiment to explore the dynamic nature of coral reef bacterial communities. In this blog post I would like to show you some aspects of how such an experimental set up is built and works!</span></p>
 <p><b>Miniature coral reefs</b><br />
 <span style="font-weight: 400;">The microcosms I will be using are basically small aquariums, having a total volume of around 3.5 litres. Each aquarium, 32 in total, will represent a miniature, simplified coral reef ecosystem. This simplified ecosystem will consist of a sediment layer with carbonate sand spiked with live reef sediment, several corals and a sponge species. By exposing the aquaria to different environmental conditions, e.g. light spectra, temperature, and water-quality, we aim to investigate the effect of these particular factors on the bacterial communities inhabiting these different biotopes.</span></p>
-<p><img decoding="async" class="alignnone size-full wp-image-3415" src="/4D-REEF/wp-content/uploads/Tamara_microcosm.png" alt="" width="1504" height="901" srcset="/4D-REEF/wp-content/uploads/Tamara_microcosm-200x120.png 200w, /4D-REEF/wp-content/uploads/Tamara_microcosm-300x180.png 300w, /4D-REEF/wp-content/uploads/Tamara_microcosm-400x240.png 400w, /4D-REEF/wp-content/uploads/Tamara_microcosm-600x359.png 600w, /4D-REEF/wp-content/uploads/Tamara_microcosm-768x460.png 768w, /4D-REEF/wp-content/uploads/Tamara_microcosm-800x479.png 800w, /4D-REEF/wp-content/uploads/Tamara_microcosm-1024x613.png 1024w, /4D-REEF/wp-content/uploads/Tamara_microcosm-1200x719.png 1200w, /4D-REEF/wp-content/uploads/Tamara_microcosm.png 1504w" sizes="(max-width: 1504px) 100vw, 1504px" /><br />
+<p><img decoding="async" class="alignnone size-full wp-image-3415" src="/wp-content/uploads/Tamara_microcosm.png" alt="" width="1504" height="901" srcset="/wp-content/uploads/Tamara_microcosm-200x120.png 200w, /wp-content/uploads/Tamara_microcosm-300x180.png 300w, /wp-content/uploads/Tamara_microcosm-400x240.png 400w, /wp-content/uploads/Tamara_microcosm-600x359.png 600w, /wp-content/uploads/Tamara_microcosm-768x460.png 768w, /wp-content/uploads/Tamara_microcosm-800x479.png 800w, /wp-content/uploads/Tamara_microcosm-1024x613.png 1024w, /wp-content/uploads/Tamara_microcosm-1200x719.png 1200w, /wp-content/uploads/Tamara_microcosm.png 1504w" sizes="(max-width: 1504px) 100vw, 1504px" /><br />
 <i><span style="font-weight: 400;">Figure 1. Microcosm system</span></i></p>
 <p><b>Mimicking the real world</b><br />
 <span style="font-weight: 400;">Building tiny artificial reefs forced me to think about aspects of a coral reef ecosystem in detail. Aspects that, when doing fieldwork based research, I considered and measured, but never had to “create”. For instance, I learned how to produce artificial seawater and how to mimic reef light conditions. To produce artificial seawater, tap water is first purified in a reverse osmosis system after which special “coral reef salt” (widely known in the aquarist world) is added to a level of 35 ppt. To mimic light conditions usually apparent in shallow coral reefs, we use fluorescent lamps which cover a broad light spectrum and have a slightly elevated transmission in the blue light spectrum. Blue green light (wavelength = 450 nm) penetrates deeper into the ocean as other wavelengths, which increases its relative abundance compared to other wavelengths. With these lamps the light that reaches the microcosm benthos through a water column of just 11 cm better mimics light conditions of the coral reef benthos situated at a few meters depth.</span></p>
-<p><img decoding="async" class="alignnone size-full wp-image-3414" src="/4D-REEF/wp-content/uploads/Tamara_frags.png" alt="" width="849" height="236" srcset="/4D-REEF/wp-content/uploads/Tamara_frags-200x56.png 200w, /4D-REEF/wp-content/uploads/Tamara_frags-300x83.png 300w, /4D-REEF/wp-content/uploads/Tamara_frags-400x111.png 400w, /4D-REEF/wp-content/uploads/Tamara_frags-600x167.png 600w, /4D-REEF/wp-content/uploads/Tamara_frags-768x213.png 768w, /4D-REEF/wp-content/uploads/Tamara_frags-800x222.png 800w, /4D-REEF/wp-content/uploads/Tamara_frags.png 849w" sizes="(max-width: 849px) 100vw, 849px" /><br />
+<p><img decoding="async" class="alignnone size-full wp-image-3414" src="/wp-content/uploads/Tamara_frags.png" alt="" width="849" height="236" srcset="/wp-content/uploads/Tamara_frags-200x56.png 200w, /wp-content/uploads/Tamara_frags-300x83.png 300w, /wp-content/uploads/Tamara_frags-400x111.png 400w, /wp-content/uploads/Tamara_frags-600x167.png 600w, /wp-content/uploads/Tamara_frags-768x213.png 768w, /wp-content/uploads/Tamara_frags-800x222.png 800w, /wp-content/uploads/Tamara_frags.png 849w" sizes="(max-width: 849px) 100vw, 849px" /><br />
 <i><span style="font-weight: 400;">Figure 2. Coral and sponge fragments</span></i></p>
 <p><b>A collection of tiny corals and sponges</b><br />
 <span style="font-weight: 400;">For the experiment, we have a helpful collaboration with ECOMARE, an institution specialized in aquaculture and coral research close to the university of Aveiro. Here they have a lot of knowledge on how to build and maintain coral reef aquaria. Together with Davide Silva, a fellow PhD student in our group, I fragmented mother colonies of 4 different corals and one sponge species, which resulted in 40 mini colonies of each species. Subsequently, the mini colonies were glued or stitched to stones to facilitate attachment. The frags are now maintained at ECOMARE until the start of the experiment. </span></p>
 <p><span style="font-weight: 400;">Hopefully I will be able to start the experiments soon upon which I will discover the success of establishing this system, and update you about it!</span></p>
-<p><img decoding="async" class="alignnone size-full wp-image-3413" src="/4D-REEF/wp-content/uploads/Tamara_ecomare.jpg" alt="" width="307" height="409" srcset="/4D-REEF/wp-content/uploads/Tamara_ecomare-200x266.jpg 200w, /4D-REEF/wp-content/uploads/Tamara_ecomare-225x300.jpg 225w, /4D-REEF/wp-content/uploads/Tamara_ecomare.jpg 307w" sizes="(max-width: 307px) 100vw, 307px" /><br />
+<p><img decoding="async" class="alignnone size-full wp-image-3413" src="/wp-content/uploads/Tamara_ecomare.jpg" alt="" width="307" height="409" srcset="/wp-content/uploads/Tamara_ecomare-200x266.jpg 200w, /wp-content/uploads/Tamara_ecomare-225x300.jpg 225w, /wp-content/uploads/Tamara_ecomare.jpg 307w" sizes="(max-width: 307px) 100vw, 307px" /><br />
 <i><span style="font-weight: 400;">Figure 3. Aquarium at ECOMARE where the fragments recover from the fragmentation process.</span></i></p>
 
 
 <div class="esr-author">
-	<img decoding="async" src="/4D-REEF/wp-content/uploads/Tamara-Stuij-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
-	<h3>Written by ESR: <a href="/4D-REEF/?post_type=avada_portfolio#038;p=2478"><span class="esr-link">Tamara Stuij</span></a> </h3> 
+	<img decoding="async" src="/wp-content/uploads/Tamara-Stuij-4D-REEF-early-stage-researcher-150x150.jpg" style="float:left;padding-right:30px;">
+	<h3>Written by ESR: <a href="/?post_type=avada_portfolio#038;p=2478"><span class="esr-link">Tamara Stuij</span></a> </h3> 
 	<p>MSc in Marine Sciences</p>
 	<p>University of Aveiro, Portugal</p></div>
 
